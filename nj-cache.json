@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793208111317,
+  "lastUpdated": 1793217113458,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -54,6 +54,19 @@
       "location": null
     },
     {
+      "tag": "JigglingMyPuffs",
+      "code": "SSL#398",
+      "rank": "Platinum 2",
+      "elo": 1907.1361866904726,
+      "wins": 27,
+      "losses": 25,
+      "character": "JIGGLYPUFF",
+      "yesterdayElo": 1856.9136586744908,
+      "eloDelta": 50.22252801598188,
+      "rankChange": "up",
+      "location": null
+    },
+    {
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
@@ -75,19 +88,6 @@
       "losses": 12,
       "character": "DR_MARIO",
       "yesterdayElo": 1872.794689641668,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null
-    },
-    {
-      "tag": "JigglingMyPuffs",
-      "code": "SSL#398",
-      "rank": "Platinum 2",
-      "elo": 1856.9136586744908,
-      "wins": 22,
-      "losses": 22,
-      "character": "JIGGLYPUFF",
-      "yesterdayElo": 1856.9136586744908,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null
@@ -116,6 +116,18 @@
       "yesterdayElo": 1753.0972113578832,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null
+    },
+    {
+      "tag": "Arzada",
+      "code": "ZADA#734",
+      "rank": "Gold 3",
+      "elo": 1668.838485771852,
+      "wins": 7,
+      "losses": 11,
+      "character": "MARTH",
+      "eloDelta": 0,
+      "rankChange": "new",
       "location": null
     },
     {
@@ -155,6 +167,18 @@
       "yesterdayElo": 1493.0816745470645,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null
+    },
+    {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Silver 3",
+      "elo": 1374.599304229411,
+      "wins": 2,
+      "losses": 5,
+      "character": "MARTH",
+      "eloDelta": 0,
+      "rankChange": "new",
       "location": null
     },
     {
