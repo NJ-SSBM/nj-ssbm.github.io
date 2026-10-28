@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793218013507,
+  "lastUpdated": 1793218290999,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -141,7 +141,7 @@
       "yesterdayElo": 1611.5498377425226,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null
+      "location": "north"
     },
     {
       "tag": "The_Milkman",
