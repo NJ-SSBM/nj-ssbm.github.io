@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793217113458,
+  "lastUpdated": 1793218013507,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -157,6 +157,18 @@
       "location": "north"
     },
     {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Gold 1",
+      "elo": 1496.9356896036645,
+      "wins": 3,
+      "losses": 6,
+      "character": "MARTH",
+      "eloDelta": 0,
+      "rankChange": "new",
+      "location": null
+    },
+    {
       "tag": "SWAGHAVER69",
       "code": "HLWY#908",
       "rank": "Gold 1",
@@ -167,18 +179,6 @@
       "yesterdayElo": 1493.0816745470645,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null
-    },
-    {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Silver 3",
-      "elo": 1374.599304229411,
-      "wins": 2,
-      "losses": 5,
-      "character": "MARTH",
-      "eloDelta": 0,
-      "rankChange": "new",
       "location": null
     },
     {
