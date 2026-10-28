@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793223750592,
+  "lastUpdated": 1793224313556,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -56,13 +56,13 @@
     {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
-      "rank": "Platinum 3",
-      "elo": 1936.8421464619437,
+      "rank": "Platinum 2",
+      "elo": 1892.5151079331326,
       "wins": 30,
-      "losses": 26,
+      "losses": 28,
       "character": "JIGGLYPUFF",
       "yesterdayElo": 1856.9136586744908,
-      "eloDelta": 79.92848778745292,
+      "eloDelta": 35.60144925864188,
       "rankChange": "up",
       "location": null
     },
