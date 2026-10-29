@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793296258089,
+  "lastUpdated": 1793297169561,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -71,14 +71,14 @@
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
-      "elo": 1913.4384856328666,
-      "wins": 35,
-      "losses": 36,
+      "elo": 1925.0002607711704,
+      "wins": 36,
+      "losses": 37,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1886.9626297481204,
-      "eloDelta": 26.475855884746125,
+      "eloDelta": 38.037631023049926,
       "rankChange": "up",
       "location": null,
       "tournaments": []
