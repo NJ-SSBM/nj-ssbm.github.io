@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793241903045,
+  "lastUpdated": 1793242803059,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -47,14 +47,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2448.9757516803747,
-      "wins": 108,
+      "elo": 2467.950344771839,
+      "wins": 109,
       "losses": 29,
       "character": "PEACH",
       "secondary": "FOX",
       "yesterdayElo": 2448.9757516803747,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 18.974593091464158,
+      "rankChange": "up",
       "location": null
     },
     {
@@ -184,14 +184,14 @@
     {
       "tag": "SWAGHAVER69",
       "code": "HLWY#908",
-      "rank": "Silver 3",
-      "elo": 1427.0590552635924,
-      "wins": 5,
-      "losses": 3,
+      "rank": "Gold 1",
+      "elo": 1456.1907868181436,
+      "wins": 6,
+      "losses": 4,
       "character": "SHEIK",
       "secondary": "FOX",
       "yesterdayElo": 1493.0816745470645,
-      "eloDelta": -66.02261928347207,
+      "eloDelta": -36.890887728920916,
       "rankChange": "down",
       "location": null
     },
