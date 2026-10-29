@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793306613504,
+  "lastUpdated": 1793307513560,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -173,8 +173,8 @@
       "character": "ICE_CLIMBERS",
       "secondary": "FOX",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
