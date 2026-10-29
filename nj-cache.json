@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793242803059,
+  "lastUpdated": 1793243703077,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -30,6 +30,20 @@
       "location": null
     },
     {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2492.835712408918,
+      "wins": 111,
+      "losses": 29,
+      "character": "PEACH",
+      "secondary": "FOX",
+      "yesterdayElo": 2448.9757516803747,
+      "eloDelta": 43.85996072854323,
+      "rankChange": "up",
+      "location": null
+    },
+    {
       "tag": "Tempo",
       "code": "TEMP#0",
       "rank": "Grandmaster",
@@ -41,20 +55,6 @@
       "yesterdayElo": 2475.825763100969,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null
-    },
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2467.950344771839,
-      "wins": 109,
-      "losses": 29,
-      "character": "PEACH",
-      "secondary": "FOX",
-      "yesterdayElo": 2448.9757516803747,
-      "eloDelta": 18.974593091464158,
-      "rankChange": "up",
       "location": null
     },
     {
@@ -184,14 +184,14 @@
     {
       "tag": "SWAGHAVER69",
       "code": "HLWY#908",
-      "rank": "Gold 1",
-      "elo": 1456.1907868181436,
+      "rank": "Silver 3",
+      "elo": 1423.7092591270437,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "character": "SHEIK",
       "secondary": "FOX",
       "yesterdayElo": 1493.0816745470645,
-      "eloDelta": -36.890887728920916,
+      "eloDelta": -69.37241542002084,
       "rankChange": "down",
       "location": null
     },
