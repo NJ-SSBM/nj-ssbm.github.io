@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793375915560,
+  "lastUpdated": 1793376815583,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -244,6 +244,22 @@
       "tournaments": []
     },
     {
+      "tag": "Undeadmatrix",
+      "code": "DEAD#342",
+      "rank": "Silver 2",
+      "elo": 1290.8642386739668,
+      "wins": 6,
+      "losses": 8,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1304.2995249186274,
+      "eloDelta": -13.435286244660574,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -273,22 +289,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "Undeadmatrix",
-      "code": "DEAD#342",
-      "rank": "Silver 2",
-      "elo": 1271.2117703000476,
-      "wins": 5,
-      "losses": 7,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1304.2995249186274,
-      "eloDelta": -33.087754618579766,
-      "rankChange": "down",
-      "location": null,
       "tournaments": []
     },
     {
