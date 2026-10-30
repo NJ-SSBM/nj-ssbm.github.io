@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793332713978,
+  "lastUpdated": 1793333613935,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -103,14 +103,14 @@
       "tag": "Virus",
       "code": "MELE#292",
       "rank": "Platinum 2",
-      "elo": 1876.7822510886306,
-      "wins": 18,
-      "losses": 16,
+      "elo": 1898.5482289221138,
+      "wins": 20,
+      "losses": 17,
       "character": "DR_MARIO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1872.794689641668,
-      "eloDelta": 3.9875614469626726,
+      "eloDelta": 25.75353928044592,
       "rankChange": "up",
       "location": null,
       "tournaments": []
