@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793376815583,
+  "lastUpdated": 1793377715618,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -246,16 +246,16 @@
     {
       "tag": "Undeadmatrix",
       "code": "DEAD#342",
-      "rank": "Silver 2",
-      "elo": 1290.8642386739668,
-      "wins": 6,
+      "rank": "Silver 3",
+      "elo": 1340.1923147587636,
+      "wins": 7,
       "losses": 8,
       "character": "FOX",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1304.2995249186274,
-      "eloDelta": -13.435286244660574,
-      "rankChange": "down",
+      "eloDelta": 35.892789840136174,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
