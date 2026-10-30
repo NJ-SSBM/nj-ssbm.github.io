@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793387615784,
+  "lastUpdated": 1793388515819,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -102,15 +102,15 @@
     {
       "tag": "ernie",
       "code": "BLUE#851",
-      "rank": "Platinum 2",
-      "elo": 1926.9221372755624,
-      "wins": 45,
-      "losses": 44,
+      "rank": "Platinum 3",
+      "elo": 1930.140408489752,
+      "wins": 46,
+      "losses": 45,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1918.8987672055719,
-      "eloDelta": 8.023370069990506,
+      "eloDelta": 11.241641284180105,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -164,6 +164,22 @@
       "tournaments": []
     },
     {
+      "tag": "The_Milkman",
+      "code": "MILK#228",
+      "rank": "Gold 2",
+      "elo": 1635.0001545724053,
+      "wins": 7,
+      "losses": 3,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1513.3402896964496,
+      "eloDelta": 121.65986487595569,
+      "rankChange": "up",
+      "location": "north",
+      "tournaments": []
+    },
+    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Gold 2",
@@ -177,22 +193,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "The_Milkman",
-      "code": "MILK#228",
-      "rank": "Gold 2",
-      "elo": 1567.8093080632852,
-      "wins": 6,
-      "losses": 3,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1513.3402896964496,
-      "eloDelta": 54.4690183668356,
-      "rankChange": "up",
-      "location": "north",
       "tournaments": []
     },
     {
