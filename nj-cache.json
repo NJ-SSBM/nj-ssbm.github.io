@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793386715776,
+  "lastUpdated": 1793387615784,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -84,22 +84,6 @@
       "tournaments": []
     },
     {
-      "tag": "ernie",
-      "code": "BLUE#851",
-      "rank": "Platinum 3",
-      "elo": 1949.8576753063955,
-      "wins": 45,
-      "losses": 43,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1918.8987672055719,
-      "eloDelta": 30.95890810082369,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
@@ -112,6 +96,22 @@
       "yesterdayElo": 1945.3849952990174,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 2",
+      "elo": 1926.9221372755624,
+      "wins": 45,
+      "losses": 44,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1918.8987672055719,
+      "eloDelta": 8.023370069990506,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
@@ -180,6 +180,22 @@
       "tournaments": []
     },
     {
+      "tag": "The_Milkman",
+      "code": "MILK#228",
+      "rank": "Gold 2",
+      "elo": 1567.8093080632852,
+      "wins": 6,
+      "losses": 3,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1513.3402896964496,
+      "eloDelta": 54.4690183668356,
+      "rankChange": "up",
+      "location": "north",
+      "tournaments": []
+    },
+    {
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 2",
@@ -190,22 +206,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1559.3730679423916,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "north",
-      "tournaments": []
-    },
-    {
-      "tag": "The_Milkman",
-      "code": "MILK#228",
-      "rank": "Gold 1",
-      "elo": 1513.3402896964496,
-      "wins": 5,
-      "losses": 3,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1513.3402896964496,
       "eloDelta": 0,
       "rankChange": "none",
       "location": "north",
