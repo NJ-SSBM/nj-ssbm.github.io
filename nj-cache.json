@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793328213902,
+  "lastUpdated": 1793329113882,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -100,6 +100,22 @@
       "tournaments": []
     },
     {
+      "tag": "Virus",
+      "code": "MELE#292",
+      "rank": "Platinum 2",
+      "elo": 1863.739939906353,
+      "wins": 16,
+      "losses": 14,
+      "character": "DR_MARIO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1872.794689641668,
+      "eloDelta": -9.054749735315,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Anchor",
       "code": "ANCHOR#0",
       "rank": "Platinum 1",
@@ -112,22 +128,6 @@
       "yesterdayElo": 1829.85787278354,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Virus",
-      "code": "MELE#292",
-      "rank": "Platinum 1",
-      "elo": 1829.752923497122,
-      "wins": 15,
-      "losses": 14,
-      "character": "DR_MARIO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1872.794689641668,
-      "eloDelta": -43.04176614454582,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
