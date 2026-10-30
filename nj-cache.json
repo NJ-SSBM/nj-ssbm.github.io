@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793350715185,
+  "lastUpdated": 1793351615244,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -12,8 +12,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2578.8553271306478,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -28,8 +28,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2542.766253051537,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": [
         "otw"
@@ -45,9 +45,9 @@
       "character": "PEACH",
       "secondary": "FOX",
       "tertiary": "SHEIK",
-      "yesterdayElo": 2517.836001023785,
-      "eloDelta": -22.17325069461549,
-      "rankChange": "down",
+      "yesterdayElo": 2495.6627503291693,
+      "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -62,8 +62,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2475.825763100969,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -77,9 +77,9 @@
       "character": "DR_MARIO",
       "secondary": "",
       "tertiary": "",
-      "yesterdayElo": 1872.794689641668,
-      "eloDelta": 87.15680279971434,
-      "rankChange": "up",
+      "yesterdayElo": 1959.9514924413822,
+      "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -93,9 +93,9 @@
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
-      "yesterdayElo": 1887.460596203112,
-      "eloDelta": 57.92439909590553,
-      "rankChange": "up",
+      "yesterdayElo": 1945.3849952990174,
+      "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -109,9 +109,9 @@
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
-      "yesterdayElo": 1886.9626297481204,
-      "eloDelta": 31.936137457451423,
-      "rankChange": "up",
+      "yesterdayElo": 1918.8987672055719,
+      "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -126,8 +126,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1829.85787278354,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -142,8 +142,8 @@
       "secondary": "GANONDORF",
       "tertiary": "MARTH",
       "yesterdayElo": 1753.0972113578832,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -158,8 +158,8 @@
       "secondary": "FOX",
       "tertiary": "SHEIK",
       "yesterdayElo": 1668.838485771852,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": "ocean",
       "tournaments": []
     },
@@ -173,8 +173,9 @@
       "character": "ICE_CLIMBERS",
       "secondary": "FOX",
       "tertiary": "",
+      "yesterdayElo": 1619.474061575999,
+      "rankChange": "none",
       "eloDelta": 0,
-      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
@@ -188,9 +189,9 @@
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
-      "yesterdayElo": 1611.5498377425226,
-      "eloDelta": -52.17676980013107,
-      "rankChange": "down",
+      "yesterdayElo": 1559.3730679423916,
+      "rankChange": "none",
+      "eloDelta": 0,
       "location": "north",
       "tournaments": []
     },
@@ -205,8 +206,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1513.3402896964496,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": "north",
       "tournaments": []
     },
@@ -220,9 +221,9 @@
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
-      "yesterdayElo": 1496.9356896036645,
-      "eloDelta": -55.94841851766182,
-      "rankChange": "down",
+      "yesterdayElo": 1440.9872710860027,
+      "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -237,8 +238,8 @@
       "secondary": "FOX",
       "tertiary": "LUIGI",
       "yesterdayElo": 1422.1132360681986,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
@@ -252,8 +253,9 @@
       "character": "FOX",
       "secondary": "",
       "tertiary": "",
+      "yesterdayElo": 1304.2995249186274,
+      "rankChange": "none",
       "eloDelta": 0,
-      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
@@ -268,8 +270,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1281.7464113764372,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": "south",
       "tournaments": []
     },
@@ -284,8 +286,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1272.501698178881,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": "ocean",
       "tournaments": []
     },
@@ -300,8 +302,8 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1245.667415848263,
-      "eloDelta": 0,
       "rankChange": "none",
+      "eloDelta": 0,
       "location": "ocean",
       "tournaments": []
     }
