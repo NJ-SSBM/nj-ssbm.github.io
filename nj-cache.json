@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793321013796,
+  "lastUpdated": 1793321913814,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -71,14 +71,14 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
-      "elo": 1932.0006793596544,
-      "wins": 33,
+      "elo": 1945.3849952990174,
+      "wins": 34,
       "losses": 29,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1887.460596203112,
-      "eloDelta": 44.54008315654255,
+      "eloDelta": 57.92439909590553,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -182,14 +182,14 @@
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 2",
-      "elo": 1594.176691924016,
+      "elo": 1577.7109515019843,
       "wins": 24,
-      "losses": 17,
+      "losses": 18,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1611.5498377425226,
-      "eloDelta": -17.3731458185066,
+      "eloDelta": -33.838886240538386,
       "rankChange": "down",
       "location": "north",
       "tournaments": []
