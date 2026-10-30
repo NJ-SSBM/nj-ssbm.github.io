@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793396616068,
+  "lastUpdated": 1793397515999,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -36,6 +36,22 @@
       ]
     },
     {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2482.6503789545186,
+      "wins": 124,
+      "losses": 34,
+      "character": "PEACH",
+      "secondary": "FOX",
+      "tertiary": "SHEIK",
+      "yesterdayElo": 2495.6627503291693,
+      "eloDelta": -13.012371374650684,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Tempo",
       "code": "TEMP#0",
       "rank": "Grandmaster",
@@ -48,22 +64,6 @@
       "yesterdayElo": 2475.825763100969,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2464.4547107291764,
-      "wins": 122,
-      "losses": 34,
-      "character": "PEACH",
-      "secondary": "FOX",
-      "tertiary": "SHEIK",
-      "yesterdayElo": 2495.6627503291693,
-      "eloDelta": -31.208039599992844,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
