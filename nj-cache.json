@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793462204214,
+  "lastUpdated": 1793463104191,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -24,14 +24,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2485.9591101023434,
-      "wins": 131,
+      "elo": 2505.372454296575,
+      "wins": 133,
       "losses": 36,
       "character": "PEACH",
       "secondary": "SHEIK",
       "tertiary": "FOX",
       "yesterdayElo": 2481.0701701074595,
-      "eloDelta": 4.888939994883913,
+      "eloDelta": 24.302284189115653,
       "rankChange": "up",
       "location": null,
       "tournaments": []
