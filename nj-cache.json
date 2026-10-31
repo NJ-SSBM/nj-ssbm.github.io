@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793435064406,
+  "lastUpdated": 1793435906588,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -15,7 +15,10 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
+      "tournaments": [
+        "rutgers",
+        "otw"
+      ]
     },
     {
       "tag": "stupid song",
