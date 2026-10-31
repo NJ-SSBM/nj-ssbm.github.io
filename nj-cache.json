@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793469404446,
+  "lastUpdated": 1793470304357,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -199,22 +199,6 @@
       "tournaments": []
     },
     {
-      "tag": "asgorefan2010",
-      "code": "ABOV#540",
-      "rank": "Gold 2",
-      "elo": 1627.539371496042,
-      "wins": 30,
-      "losses": 22,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1559.3730679423916,
-      "eloDelta": 68.16630355365032,
-      "rankChange": "up",
-      "location": "north",
-      "tournaments": []
-    },
-    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Gold 2",
@@ -228,6 +212,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "asgorefan2010",
+      "code": "ABOV#540",
+      "rank": "Gold 2",
+      "elo": 1592.3730335227874,
+      "wins": 30,
+      "losses": 24,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1559.3730679423916,
+      "eloDelta": 32.99996558039584,
+      "rankChange": "up",
+      "location": "north",
       "tournaments": []
     },
     {
