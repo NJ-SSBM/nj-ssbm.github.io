@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793434164605,
+  "lastUpdated": 1793435064406,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -237,8 +237,8 @@
       "character": "ROY",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
