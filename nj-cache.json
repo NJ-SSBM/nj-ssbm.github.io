@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793433516517,
+  "lastUpdated": 1793434164605,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -225,6 +225,21 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "north",
+      "tournaments": []
+    },
+    {
+      "tag": "Dathomir",
+      "code": "DATH#793",
+      "rank": "Silver 3",
+      "elo": 1431.4420868904408,
+      "wins": 4,
+      "losses": 3,
+      "character": "ROY",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
       "tournaments": []
     },
     {
