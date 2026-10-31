@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793466704317,
+  "lastUpdated": 1793467604340,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -218,15 +218,15 @@
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 2",
-      "elo": 1559.1888818009634,
-      "wins": 26,
-      "losses": 21,
+      "elo": 1566.8793356030137,
+      "wins": 27,
+      "losses": 22,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1559.3730679423916,
-      "eloDelta": -0.18418614142819933,
-      "rankChange": "none",
+      "eloDelta": 7.506267660622143,
+      "rankChange": "up",
       "location": "north",
       "tournaments": []
     },
