@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793414616175,
+  "lastUpdated": 1793415516167,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -305,6 +305,21 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "Risens Kirby",
+      "code": "RISN#993",
+      "rank": "Silver 1",
+      "elo": 1180.7684040366469,
+      "wins": 1,
+      "losses": 5,
+      "character": "KIRBY",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
       "tournaments": []
     }
   ]
