@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793415516167,
+  "lastUpdated": 1793416416166,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -18,24 +18,6 @@
       "tournaments": []
     },
     {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2486.0895153628226,
-      "wins": 49,
-      "losses": 12,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2542.766253051537,
-      "eloDelta": -56.67673768871464,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
-    },
-    {
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
@@ -50,6 +32,24 @@
       "rankChange": "down",
       "location": null,
       "tournaments": []
+    },
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2479.0207251132824,
+      "wins": 50,
+      "losses": 13,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2542.766253051537,
+      "eloDelta": -63.74552793825478,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
     },
     {
       "tag": "Tempo",
@@ -317,8 +317,8 @@
       "character": "KIRBY",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     }
