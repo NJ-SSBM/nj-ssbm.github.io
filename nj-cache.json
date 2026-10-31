@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793406516105,
+  "lastUpdated": 1793407416129,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -16,24 +16,6 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2499.2797058487586,
-      "wins": 47,
-      "losses": 10,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2542.766253051537,
-      "eloDelta": -43.48654720277864,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "stupid song",
@@ -66,6 +48,24 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
+    },
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2462.836196441046,
+      "wins": 47,
+      "losses": 11,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2542.766253051537,
+      "eloDelta": -79.93005661049119,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
     },
     {
       "tag": "Virus",
