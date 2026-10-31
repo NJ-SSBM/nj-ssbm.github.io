@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793419116229,
+  "lastUpdated": 1793420016253,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -180,6 +180,22 @@
       "tournaments": []
     },
     {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Gold 2",
+      "elo": 1634.3687812579146,
+      "wins": 5,
+      "losses": 9,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1440.9872710860027,
+      "eloDelta": 193.38151017191194,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Gold 2",
@@ -209,22 +225,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "north",
-      "tournaments": []
-    },
-    {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Silver 3",
-      "elo": 1422.9285282144938,
-      "wins": 3,
-      "losses": 9,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1440.9872710860027,
-      "eloDelta": -18.05874287150891,
-      "rankChange": "down",
-      "location": null,
       "tournaments": []
     },
     {
