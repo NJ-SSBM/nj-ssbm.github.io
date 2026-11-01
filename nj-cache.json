@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793494604862,
+  "lastUpdated": 1793495504721,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -138,14 +138,14 @@
       "tag": "raspberry",
       "code": "BEL#294",
       "rank": "Gold 3",
-      "elo": 1750.1441742421098,
-      "wins": 35,
-      "losses": 37,
+      "elo": 1749.5505929394992,
+      "wins": 36,
+      "losses": 38,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "MARTH",
       "yesterdayElo": 1753.0972113578832,
-      "eloDelta": -2.9530371157734407,
+      "eloDelta": -3.546618418384014,
       "rankChange": "down",
       "location": null,
       "tournaments": []
