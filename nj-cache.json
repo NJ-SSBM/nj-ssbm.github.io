@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793539605298,
+  "lastUpdated": 1793540506311,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -19,6 +19,21 @@
         "rutgers",
         "otw"
       ]
+    },
+    {
+      "tag": "ICsabethHolmes",
+      "code": "A#24",
+      "rank": "Grandmaster",
+      "elo": 2527.5803209680143,
+      "wins": 35,
+      "losses": 10,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
+      "tournaments": []
     },
     {
       "tag": "Tempo",
