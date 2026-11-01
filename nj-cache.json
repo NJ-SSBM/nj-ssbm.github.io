@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793546806327,
+  "lastUpdated": 1793547706358,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -104,15 +104,15 @@
     {
       "tag": "Anchor",
       "code": "ANCHOR#0",
-      "rank": "Platinum 2",
-      "elo": 1905.2063559253434,
-      "wins": 8,
+      "rank": "Platinum 3",
+      "elo": 1944.253103892765,
+      "wins": 9,
       "losses": 8,
       "character": "CAPTAIN_FALCON",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1829.85787278354,
-      "eloDelta": 75.3484831418034,
+      "eloDelta": 114.39523110922505,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -153,14 +153,14 @@
       "tag": "raspberry",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1805.7384944788332,
-      "wins": 40,
+      "elo": 1827.5203696885828,
+      "wins": 41,
       "losses": 41,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "MARTH",
       "yesterdayElo": 1749.5505929394992,
-      "eloDelta": 56.18790153933401,
+      "eloDelta": 77.96977674908362,
       "rankChange": "up",
       "location": null,
       "tournaments": []
