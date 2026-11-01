@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793545006304,
+  "lastUpdated": 1793545906323,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -102,6 +102,22 @@
       "tournaments": []
     },
     {
+      "tag": "Anchor",
+      "code": "ANCHOR#0",
+      "rank": "Platinum 2",
+      "elo": 1905.2174002450674,
+      "wins": 7,
+      "losses": 7,
+      "character": "CAPTAIN_FALCON",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1829.85787278354,
+      "eloDelta": 75.35952746152748,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 2",
@@ -134,18 +150,18 @@
       "tournaments": []
     },
     {
-      "tag": "Anchor",
-      "code": "ANCHOR#0",
-      "rank": "Platinum 1",
-      "elo": 1829.85787278354,
-      "wins": 6,
-      "losses": 7,
+      "tag": "raspberry",
+      "code": "BEL#294",
+      "rank": "Gold 3",
+      "elo": 1746.6439355585558,
+      "wins": 37,
+      "losses": 41,
       "character": "CAPTAIN_FALCON",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1829.85787278354,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "secondary": "GANONDORF",
+      "tertiary": "MARTH",
+      "yesterdayElo": 1749.5505929394992,
+      "eloDelta": -2.906657380943443,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
@@ -163,22 +179,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "raspberry",
-      "code": "BEL#294",
-      "rank": "Gold 3",
-      "elo": 1738.479262655424,
-      "wins": 36,
-      "losses": 40,
-      "character": "CAPTAIN_FALCON",
-      "secondary": "GANONDORF",
-      "tertiary": "MARTH",
-      "yesterdayElo": 1749.5505929394992,
-      "eloDelta": -11.071330284075202,
-      "rankChange": "down",
-      "location": null,
       "tournaments": []
     },
     {
