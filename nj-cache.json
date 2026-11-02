@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793590006938,
+  "lastUpdated": 1793590906960,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -55,14 +55,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2449.515110778857,
-      "wins": 156,
+      "elo": 2451.2895133481843,
+      "wins": 157,
       "losses": 44,
       "character": "PEACH",
       "secondary": "FOX",
       "tertiary": "SHEIK",
       "yesterdayElo": 2467.9224714938296,
-      "eloDelta": -18.407360714972583,
+      "eloDelta": -16.63295814564526,
       "rankChange": "down",
       "location": null,
       "tournaments": []
@@ -105,14 +105,14 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
-      "elo": 1961.8393958309275,
-      "wins": 47,
-      "losses": 41,
+      "elo": 1969.6776218676273,
+      "wins": 48,
+      "losses": 42,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1868.063040472195,
-      "eloDelta": 93.77635535873242,
+      "eloDelta": 101.6145813954322,
       "rankChange": "up",
       "location": null,
       "tournaments": []
