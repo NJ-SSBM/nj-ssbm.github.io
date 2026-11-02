@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793649285663,
+  "lastUpdated": 1793650184827,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -134,6 +134,22 @@
       "tournaments": []
     },
     {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 2",
+      "elo": 1849.6879807574155,
+      "wins": 57,
+      "losses": 61,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1856.9510574378198,
+      "eloDelta": -7.2630766804043105,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 2",
@@ -146,22 +162,6 @@
       "yesterdayElo": 1749.5505929394992,
       "eloDelta": 98.35621761001744,
       "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "ernie",
-      "code": "BLUE#851",
-      "rank": "Platinum 1",
-      "elo": 1838.1560399929494,
-      "wins": 56,
-      "losses": 61,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1856.9510574378198,
-      "eloDelta": -18.795017444870382,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
