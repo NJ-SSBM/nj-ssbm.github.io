@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793658284976,
+  "lastUpdated": 1793658755019,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -179,7 +179,9 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
+      "tournaments": [
+        "otw"
+      ]
     },
     {
       "tag": "greasysnakes",
