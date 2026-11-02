@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793647484802,
+  "lastUpdated": 1793648384813,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -153,14 +153,14 @@
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 1",
-      "elo": 1813.7738619948545,
-      "wins": 54,
-      "losses": 60,
+      "elo": 1820.129701956164,
+      "wins": 55,
+      "losses": 61,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1856.9510574378198,
-      "eloDelta": -43.177195442965285,
+      "eloDelta": -36.82135548165593,
       "rankChange": "down",
       "location": null,
       "tournaments": []
@@ -182,6 +182,22 @@
       "tournaments": []
     },
     {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Gold 3",
+      "elo": 1692.2285715803155,
+      "wins": 6,
+      "losses": 9,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1634.3687812579146,
+      "eloDelta": 57.85979032240084,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "The_Milkman",
       "code": "MILK#228",
       "rank": "Gold 2",
@@ -195,22 +211,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "north",
-      "tournaments": []
-    },
-    {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Gold 2",
-      "elo": 1634.3687812579146,
-      "wins": 5,
-      "losses": 9,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1634.3687812579146,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
       "tournaments": []
     },
     {
