@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793732582726,
+  "lastUpdated": 1793733483345,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -72,15 +72,15 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2412.367594979603,
-      "wins": 63,
+      "elo": 2443.5672911014617,
+      "wins": 65,
       "losses": 19,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2414.5343530282726,
-      "eloDelta": -2.166758048669635,
-      "rankChange": "down",
+      "eloDelta": 29.032938073189143,
+      "rankChange": "up",
       "location": null,
       "tournaments": [
         "otw"
