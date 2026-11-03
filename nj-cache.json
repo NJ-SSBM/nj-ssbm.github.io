@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793734383372,
+  "lastUpdated": 1793735283373,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -53,6 +53,24 @@
       "tournaments": []
     },
     {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2490.2571082142285,
+      "wins": 69,
+      "losses": 19,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2414.5343530282726,
+      "eloDelta": 75.72275518595598,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
+    {
       "tag": "Tempo",
       "code": "TEMP#0",
       "rank": "Grandmaster",
@@ -67,24 +85,6 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2469.80926237836,
-      "wins": 67,
-      "losses": 19,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2414.5343530282726,
-      "eloDelta": 55.274909350087455,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "Anchor",
