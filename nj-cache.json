@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793679923510,
+  "lastUpdated": 1793680823547,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -166,6 +166,22 @@
       "tournaments": []
     },
     {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Platinum 1",
+      "elo": 1759.135414904549,
+      "wins": 7,
+      "losses": 10,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1634.3687812579146,
+      "eloDelta": 124.76663364663432,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Arzada",
       "code": "ZADA#734",
       "rank": "Gold 3",
@@ -182,22 +198,6 @@
       "tournaments": [
         "otw"
       ]
-    },
-    {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Gold 3",
-      "elo": 1688.7401667941485,
-      "wins": 6,
-      "losses": 10,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1634.3687812579146,
-      "eloDelta": 54.3713855362339,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
     },
     {
       "tag": "The_Milkman",
