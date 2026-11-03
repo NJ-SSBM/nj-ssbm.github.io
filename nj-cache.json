@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793737083412,
+  "lastUpdated": 1793742483684,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -233,6 +233,22 @@
       "tournaments": []
     },
     {
+      "tag": "kadorrfan400",
+      "code": "DESO#590",
+      "rank": "Gold 1",
+      "elo": 1514.0414404226062,
+      "wins": 3,
+      "losses": 4,
+      "character": "MARTH",
+      "secondary": "YOSHI",
+      "tertiary": "",
+      "yesterdayElo": 1245.667415848263,
+      "eloDelta": 268.37402457434314,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 1",
@@ -310,22 +326,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
-      "tournaments": []
-    },
-    {
-      "tag": "kadorrfan400",
-      "code": "DESO#590",
-      "rank": "Silver 2",
-      "elo": 1245.667415848263,
-      "wins": 1,
-      "losses": 4,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1245.667415848263,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "ocean",
       "tournaments": []
     },
     {
