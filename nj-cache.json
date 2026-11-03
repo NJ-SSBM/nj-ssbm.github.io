@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793671823478,
+  "lastUpdated": 1793672723466,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "tag": "ICsabethHolmes",
+      "tag": ".",
       "code": "A#24",
       "rank": "Grandmaster",
       "elo": 2527.5803209680143,
@@ -55,14 +55,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2469.102752506871,
-      "wins": 159,
+      "elo": 2472.6585607844195,
+      "wins": 160,
       "losses": 44,
       "character": "PEACH",
       "secondary": "FOX",
       "tertiary": "SHEIK",
       "yesterdayElo": 2467.9224714938296,
-      "eloDelta": 1.180281013041622,
+      "eloDelta": 4.736089290589916,
       "rankChange": "up",
       "location": null,
       "tournaments": []
