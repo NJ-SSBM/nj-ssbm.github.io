@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793746083588,
+  "lastUpdated": 1793746983633,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -201,22 +201,6 @@
       ]
     },
     {
-      "tag": "kadorrfan400",
-      "code": "DESO#590",
-      "rank": "Gold 2",
-      "elo": 1644.5345034125817,
-      "wins": 5,
-      "losses": 9,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1245.667415848263,
-      "eloDelta": 398.8670875643186,
-      "rankChange": "up",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "The_Milkman",
       "code": "MILK#228",
       "rank": "Gold 2",
@@ -246,6 +230,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "kadorrfan400",
+      "code": "DESO#590",
+      "rank": "Gold 2",
+      "elo": 1610.7947741712624,
+      "wins": 5,
+      "losses": 10,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1245.667415848263,
+      "eloDelta": 365.12735832299927,
+      "rankChange": "up",
+      "location": "ocean",
       "tournaments": []
     },
     {
@@ -329,6 +329,22 @@
       "tournaments": []
     },
     {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 2",
+      "elo": 1194.391106313563,
+      "wins": 7,
+      "losses": 13,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1272.501698178881,
+      "eloDelta": -78.11059186531816,
+      "rankChange": "down",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "Risens Kirby",
       "code": "RISN#993",
       "rank": "Silver 1",
@@ -342,22 +358,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "PeanutbuttaRyan",
-      "code": "RYDA#315",
-      "rank": "Silver 1",
-      "elo": 1175.8234664288943,
-      "wins": 6,
-      "losses": 12,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1272.501698178881,
-      "eloDelta": -96.67823174998671,
-      "rankChange": "down",
-      "location": "ocean",
       "tournaments": []
     }
   ]
