@@ -1,19 +1,19 @@
 {
-  "lastUpdated": 1793673623396,
+  "lastUpdated": 1793674523420,
   "playerRanks": [
     {
       "tag": "kdog",
       "code": "KDOG#261",
       "rank": "Grandmaster",
-      "elo": 2578.8553271306478,
+      "elo": 2545.2908280379793,
       "wins": 29,
-      "losses": 5,
+      "losses": 6,
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2578.8553271306478,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -33.564499092668484,
+      "rankChange": "down",
       "location": null,
       "tournaments": [
         "rutgers",
@@ -39,14 +39,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2487.2828648106415,
-      "wins": 163,
+      "elo": 2509.677483808349,
+      "wins": 165,
       "losses": 44,
       "character": "PEACH",
       "secondary": "FOX",
       "tertiary": "SHEIK",
       "yesterdayElo": 2467.9224714938296,
-      "eloDelta": 19.36039331681195,
+      "eloDelta": 41.75501231451926,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -328,7 +328,7 @@
       "tournaments": []
     },
     {
-      "tag": "asidyxfan400",
+      "tag": "kagefan400",
       "code": "DESO#590",
       "rank": "Silver 2",
       "elo": 1245.667415848263,
