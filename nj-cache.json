@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793746983633,
+  "lastUpdated": 1793747883634,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -233,7 +233,7 @@
       "tournaments": []
     },
     {
-      "tag": "kadorrfan400",
+      "tag": "antwanfan400",
       "code": "DESO#590",
       "rank": "Gold 2",
       "elo": 1610.7947741712624,
@@ -329,22 +329,6 @@
       "tournaments": []
     },
     {
-      "tag": "PeanutbuttaRyan",
-      "code": "RYDA#315",
-      "rank": "Silver 2",
-      "elo": 1194.391106313563,
-      "wins": 7,
-      "losses": 13,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1272.501698178881,
-      "eloDelta": -78.11059186531816,
-      "rankChange": "down",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "Risens Kirby",
       "code": "RISN#993",
       "rank": "Silver 1",
@@ -358,6 +342,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 1",
+      "elo": 1178.0908703730834,
+      "wins": 7,
+      "losses": 14,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1272.501698178881,
+      "eloDelta": -94.41082780579768,
+      "rankChange": "down",
+      "location": "ocean",
       "tournaments": []
     }
   ]
