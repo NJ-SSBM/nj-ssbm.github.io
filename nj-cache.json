@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793680823547,
+  "lastUpdated": 1793681723541,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -169,14 +169,14 @@
       "tag": "greasysnakes",
       "code": "NJ#473",
       "rank": "Platinum 1",
-      "elo": 1759.135414904549,
-      "wins": 7,
-      "losses": 10,
+      "elo": 1789.0826023399795,
+      "wins": 8,
+      "losses": 11,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1634.3687812579146,
-      "eloDelta": 124.76663364663432,
+      "eloDelta": 154.7138210820649,
       "rankChange": "up",
       "location": null,
       "tournaments": []
