@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793682623573,
+  "lastUpdated": 1793683523589,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -150,6 +150,22 @@
       "tournaments": []
     },
     {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Platinum 2",
+      "elo": 1856.0445049225025,
+      "wins": 9,
+      "losses": 11,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1634.3687812579146,
+      "eloDelta": 221.67572366458785,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 2",
@@ -161,22 +177,6 @@
       "tertiary": "MARTH",
       "yesterdayElo": 1749.5505929394992,
       "eloDelta": 98.35621761001744,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Platinum 1",
-      "elo": 1789.0826023399795,
-      "wins": 8,
-      "losses": 11,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1634.3687812579146,
-      "eloDelta": 154.7138210820649,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -328,7 +328,7 @@
       "tournaments": []
     },
     {
-      "tag": "kagefan400",
+      "tag": "kadorrfan400",
       "code": "DESO#590",
       "rank": "Silver 2",
       "elo": 1245.667415848263,
