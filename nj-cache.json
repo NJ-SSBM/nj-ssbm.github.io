@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793730318239,
+  "lastUpdated": 1793732118279,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -316,15 +316,15 @@
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 2",
-      "elo": 1272.501698178881,
+      "elo": 1251.2509684643285,
       "wins": 6,
-      "losses": 8,
+      "losses": 9,
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1272.501698178881,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -21.250729714552563,
+      "rankChange": "down",
       "location": "ocean",
       "tournaments": []
     },
