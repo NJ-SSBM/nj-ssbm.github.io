@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793765883913,
+  "lastUpdated": 1793766783863,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -201,6 +201,22 @@
       ]
     },
     {
+      "tag": "antwanfan400",
+      "code": "DESO#590",
+      "rank": "Gold 3",
+      "elo": 1688.687285056044,
+      "wins": 7,
+      "losses": 16,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1245.667415848263,
+      "eloDelta": 443.01986920778086,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "The_Milkman",
       "code": "MILK#228",
       "rank": "Gold 2",
@@ -230,22 +246,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "antwanfan400",
-      "code": "DESO#590",
-      "rank": "Gold 2",
-      "elo": 1619.4095830751626,
-      "wins": 6,
-      "losses": 15,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1245.667415848263,
-      "eloDelta": 373.7421672268995,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
