@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793766783863,
+  "lastUpdated": 1793767684874,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -183,6 +183,22 @@
       "tournaments": []
     },
     {
+      "tag": "antwanfan400",
+      "code": "DESO#590",
+      "rank": "Platinum 1",
+      "elo": 1755.781544848181,
+      "wins": 8,
+      "losses": 16,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1245.667415848263,
+      "eloDelta": 510.11412899991797,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "Arzada",
       "code": "ZADA#734",
       "rank": "Gold 3",
@@ -201,34 +217,18 @@
       ]
     },
     {
-      "tag": "antwanfan400",
-      "code": "DESO#590",
-      "rank": "Gold 3",
-      "elo": 1688.687285056044,
-      "wins": 7,
-      "losses": 16,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1245.667415848263,
-      "eloDelta": 443.01986920778086,
-      "rankChange": "up",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "The_Milkman",
       "code": "MILK#228",
-      "rank": "Gold 2",
-      "elo": 1635.0001545724053,
-      "wins": 7,
+      "rank": "Gold 3",
+      "elo": 1686.3195831768626,
+      "wins": 8,
       "losses": 3,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1635.0001545724053,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 51.319428604457244,
+      "rankChange": "up",
       "location": "north",
       "tournaments": []
     },
@@ -358,6 +358,21 @@
       "eloDelta": -94.41082780579768,
       "rankChange": "down",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "KNICKSTAPE",
+      "code": "DICK#254",
+      "rank": "Silver 1",
+      "elo": 1103.0130481688504,
+      "wins": 3,
+      "losses": 5,
+      "character": "SHEIK",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
       "tournaments": []
     }
   ]
