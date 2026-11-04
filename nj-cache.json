@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793768584899,
+  "lastUpdated": 1793769484898,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -219,15 +219,15 @@
     {
       "tag": "The_Milkman",
       "code": "MILK#228",
-      "rank": "Gold 2",
-      "elo": 1641.995194182754,
-      "wins": 9,
+      "rank": "Gold 3",
+      "elo": 1678.524730501901,
+      "wins": 10,
       "losses": 5,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1635.0001545724053,
-      "eloDelta": 6.995039610348613,
+      "eloDelta": 43.52457592949577,
       "rankChange": "up",
       "location": "north",
       "tournaments": []
