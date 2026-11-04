@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793830685997,
+  "lastUpdated": 1793831586143,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -119,6 +119,22 @@
       "tournaments": []
     },
     {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Platinum 3",
+      "elo": 1963.893654871063,
+      "wins": 16,
+      "losses": 15,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1926.4889710803434,
+      "eloDelta": 37.40468379071967,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Virus",
       "code": "MELE#292",
       "rank": "Platinum 3",
@@ -135,51 +151,19 @@
       "tournaments": []
     },
     {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Platinum 3",
-      "elo": 1932.2954815559874,
-      "wins": 15,
-      "losses": 15,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1926.4889710803434,
-      "eloDelta": 5.806510475644018,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
-      "elo": 1870.8201410613735,
-      "wins": 65,
-      "losses": 68,
+      "elo": 1884.1212327509888,
+      "wins": 66,
+      "losses": 69,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1871.842675296201,
-      "eloDelta": -1.0225342348273898,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "antwanfan400",
-      "code": "DESO#590",
-      "rank": "Platinum 2",
-      "elo": 1862.5601262013404,
-      "wins": 15,
-      "losses": 25,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1805.7431446998696,
-      "eloDelta": 56.816981501470764,
+      "eloDelta": 12.278557454787915,
       "rankChange": "up",
-      "location": "ocean",
+      "location": null,
       "tournaments": []
     },
     {
@@ -196,6 +180,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "antwanfan400",
+      "code": "DESO#590",
+      "rank": "Platinum 1",
+      "elo": 1832.2816469485724,
+      "wins": 15,
+      "losses": 27,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1805.7431446998696,
+      "eloDelta": 26.538502248702798,
+      "rankChange": "up",
+      "location": "ocean",
       "tournaments": []
     },
     {
