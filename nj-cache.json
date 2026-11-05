@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793914388345,
+  "lastUpdated": 1793920688427,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -236,15 +236,15 @@
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Gold 2",
-      "elo": 1619.474061575999,
+      "elo": 1585.6103408615274,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "character": "ICE_CLIMBERS",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1619.474061575999,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -33.86372071447158,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
