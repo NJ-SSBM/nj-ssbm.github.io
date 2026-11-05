@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793913488347,
+  "lastUpdated": 1793914388345,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -135,22 +135,6 @@
       "tournaments": []
     },
     {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Platinum 2",
-      "elo": 1918.7802236657735,
-      "wins": 16,
-      "losses": 17,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1963.893654871063,
-      "eloDelta": -45.113431205289544,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
@@ -163,6 +147,22 @@
       "yesterdayElo": 1895.517442430637,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Platinum 2",
+      "elo": 1863.8025354270312,
+      "wins": 16,
+      "losses": 19,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1963.893654871063,
+      "eloDelta": -100.09111944403185,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
