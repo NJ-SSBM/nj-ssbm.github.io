@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793851387327,
+  "lastUpdated": 1793852287351,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -186,15 +186,15 @@
       "tag": "antwan'smidtier",
       "code": "DESO#590",
       "rank": "Platinum 1",
-      "elo": 1811.4457238905443,
+      "elo": 1804.2245231087475,
       "wins": 18,
-      "losses": 33,
+      "losses": 34,
       "character": "YOSHI",
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 1805.7431446998696,
-      "eloDelta": 5.702579190674669,
-      "rankChange": "up",
+      "eloDelta": -1.5186215911221552,
+      "rankChange": "down",
       "location": "ocean",
       "tournaments": []
     },
