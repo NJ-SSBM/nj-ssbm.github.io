@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793870287587,
+  "lastUpdated": 1793890987981,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -103,22 +103,6 @@
       "tournaments": []
     },
     {
-      "tag": "JigglingMyPuffs",
-      "code": "SSL#398",
-      "rank": "Platinum 3",
-      "elo": 1984.7290117970308,
-      "wins": 62,
-      "losses": 47,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1984.7290117970308,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "greasysnakes",
       "code": "NJ#473",
       "rank": "Platinum 3",
@@ -131,6 +115,22 @@
       "yesterdayElo": 1963.893654871063,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "JigglingMyPuffs",
+      "code": "SSL#398",
+      "rank": "Platinum 3",
+      "elo": 1961.4380984074826,
+      "wins": 62,
+      "losses": 49,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1984.7290117970308,
+      "eloDelta": -23.290913389548223,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
