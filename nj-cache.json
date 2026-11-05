@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793912588331,
+  "lastUpdated": 1793913488347,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -103,22 +103,6 @@
       "tournaments": []
     },
     {
-      "tag": "greasysnakes",
-      "code": "NJ#473",
-      "rank": "Platinum 3",
-      "elo": 1963.893654871063,
-      "wins": 16,
-      "losses": 15,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1963.893654871063,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
@@ -147,6 +131,22 @@
       "yesterdayElo": 1959.9514924413822,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "greasysnakes",
+      "code": "NJ#473",
+      "rank": "Platinum 2",
+      "elo": 1918.7802236657735,
+      "wins": 16,
+      "losses": 17,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1963.893654871063,
+      "eloDelta": -45.113431205289544,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
@@ -252,14 +252,14 @@
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 1",
-      "elo": 1522.0912713689108,
+      "elo": 1503.0547484165968,
       "wins": 33,
-      "losses": 32,
+      "losses": 33,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1531.1390462148834,
-      "eloDelta": -9.047774845972526,
+      "eloDelta": -28.08429779828657,
       "rankChange": "down",
       "location": "north",
       "tournaments": []
