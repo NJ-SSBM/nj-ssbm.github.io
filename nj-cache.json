@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793929688563,
+  "lastUpdated": 1793930588782,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -90,14 +90,14 @@
       "tag": "Anchor",
       "code": "ANCHOR#0",
       "rank": "Master 1",
-      "elo": 2194.9523213193906,
-      "wins": 31,
-      "losses": 25,
+      "elo": 2219.9232903448165,
+      "wins": 32,
+      "losses": 26,
       "character": "CAPTAIN_FALCON",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2158.6992432644365,
-      "eloDelta": 36.25307805495413,
+      "eloDelta": 61.22404708037993,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -167,6 +167,22 @@
       "tournaments": []
     },
     {
+      "tag": "antwan'smidtier",
+      "code": "DESO#590",
+      "rank": "Platinum 1",
+      "elo": 1822.7094424477677,
+      "wins": 20,
+      "losses": 36,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1812.8638914173891,
+      "eloDelta": 9.845551030378601,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
@@ -180,22 +196,6 @@
       "eloDelta": -57.65880042105255,
       "rankChange": "down",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "antwan'smidtier",
-      "code": "DESO#590",
-      "rank": "Platinum 1",
-      "elo": 1789.6165585388185,
-      "wins": 19,
-      "losses": 36,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1812.8638914173891,
-      "eloDelta": -23.24733287857066,
-      "rankChange": "down",
-      "location": "ocean",
       "tournaments": []
     },
     {
