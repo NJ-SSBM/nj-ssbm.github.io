@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793946788813,
+  "lastUpdated": 1793947688764,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -167,7 +167,7 @@
       "tournaments": []
     },
     {
-      "tag": "antwan'smidtier",
+      "tag": "antwan'stoptier",
       "code": "DESO#590",
       "rank": "Platinum 1",
       "elo": 1823.3663337929365,
@@ -332,14 +332,14 @@
       "tag": "KNICKSTAPE",
       "code": "DICK#254",
       "rank": "Silver 2",
-      "elo": 1205.5659904208603,
-      "wins": 5,
+      "elo": 1267.3862516801642,
+      "wins": 6,
       "losses": 6,
       "character": "SHEIK",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1103.0130481688504,
-      "eloDelta": 102.55294225200987,
+      "eloDelta": 164.3732035113137,
       "rankChange": "up",
       "location": null,
       "tournaments": []
