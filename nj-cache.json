@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793926988520,
+  "lastUpdated": 1793927888519,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -90,15 +90,15 @@
       "tag": "Anchor",
       "code": "ANCHOR#0",
       "rank": "Diamond 3",
-      "elo": 2158.6992432644365,
-      "wins": 28,
+      "elo": 2164.9557560583953,
+      "wins": 29,
       "losses": 23,
       "character": "CAPTAIN_FALCON",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2158.6992432644365,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 6.256512793958791,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
