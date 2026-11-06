@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793936888734,
+  "lastUpdated": 1793945888752,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -186,14 +186,14 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1791.852508862492,
-      "wins": 46,
-      "losses": 50,
+      "elo": 1801.1116690526092,
+      "wins": 48,
+      "losses": 51,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1849.5113092835445,
-      "eloDelta": -57.65880042105255,
+      "eloDelta": -48.39964023093535,
       "rankChange": "down",
       "location": null,
       "tournaments": []
@@ -364,15 +364,15 @@
       "tag": "KNICKSTAPE",
       "code": "DICK#254",
       "rank": "Silver 1",
-      "elo": 1103.0130481688504,
+      "elo": 1097.0963085987444,
       "wins": 3,
-      "losses": 5,
+      "losses": 6,
       "character": "SHEIK",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1103.0130481688504,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -5.916739570106074,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     }
