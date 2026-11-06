@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793923388470,
+  "lastUpdated": 1793924288536,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -167,22 +167,6 @@
       "tournaments": []
     },
     {
-      "tag": "theinstituter",
-      "code": "BEL#294",
-      "rank": "Platinum 1",
-      "elo": 1821.2188656546978,
-      "wins": 46,
-      "losses": 48,
-      "character": "CAPTAIN_FALCON",
-      "secondary": "GANONDORF",
-      "tertiary": "FALCO",
-      "yesterdayElo": 1849.5113092835445,
-      "eloDelta": -28.29244362884674,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "antwan'smidtier",
       "code": "DESO#590",
       "rank": "Platinum 1",
@@ -196,6 +180,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "theinstituter",
+      "code": "BEL#294",
+      "rank": "Platinum 1",
+      "elo": 1791.852508862492,
+      "wins": 46,
+      "losses": 50,
+      "character": "CAPTAIN_FALCON",
+      "secondary": "GANONDORF",
+      "tertiary": "FALCO",
+      "yesterdayElo": 1849.5113092835445,
+      "eloDelta": -57.65880042105255,
+      "rankChange": "down",
+      "location": null,
       "tournaments": []
     },
     {
