@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1793945888752,
+  "lastUpdated": 1793946788813,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -329,6 +329,22 @@
       "tournaments": []
     },
     {
+      "tag": "KNICKSTAPE",
+      "code": "DICK#254",
+      "rank": "Silver 2",
+      "elo": 1205.5659904208603,
+      "wins": 5,
+      "losses": 6,
+      "character": "SHEIK",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1103.0130481688504,
+      "eloDelta": 102.55294225200987,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "KIRBY MASTER 67",
       "code": "RISN#993",
       "rank": "Silver 1",
@@ -358,22 +374,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "KNICKSTAPE",
-      "code": "DICK#254",
-      "rank": "Silver 1",
-      "elo": 1097.0963085987444,
-      "wins": 3,
-      "losses": 6,
-      "character": "SHEIK",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1103.0130481688504,
-      "eloDelta": -5.916739570106074,
-      "rankChange": "down",
-      "location": null,
       "tournaments": []
     }
   ]
