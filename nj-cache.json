@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794043090335,
+  "lastUpdated": 1794055690432,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -122,15 +122,15 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
-      "elo": 1953.4593109492325,
-      "wins": 64,
+      "elo": 1956.7300824544518,
+      "wins": 65,
       "losses": 51,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1953.4593109492325,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 3.2707715052192725,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
