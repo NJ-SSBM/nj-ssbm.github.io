@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794034090201,
+  "lastUpdated": 1794034990223,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -37,22 +37,6 @@
       "tournaments": []
     },
     {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2512.080931876121,
-      "wins": 169,
-      "losses": 46,
-      "character": "PEACH",
-      "secondary": "FOX",
-      "tertiary": "SHEIK",
-      "yesterdayElo": 2524.5458811769076,
-      "eloDelta": -12.46494930078643,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
@@ -69,6 +53,22 @@
       "tournaments": [
         "otw"
       ]
+    },
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2495.561457604698,
+      "wins": 170,
+      "losses": 47,
+      "character": "PEACH",
+      "secondary": "FOX",
+      "tertiary": "SHEIK",
+      "yesterdayElo": 2524.5458811769076,
+      "eloDelta": -28.984423572209835,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
     },
     {
       "tag": "Tempo",
@@ -167,22 +167,6 @@
       "tournaments": []
     },
     {
-      "tag": "antwanshightier",
-      "code": "DESO#590",
-      "rank": "Platinum 1",
-      "elo": 1823.3663337929365,
-      "wins": 21,
-      "losses": 37,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1823.3663337929365,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
@@ -196,6 +180,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "antwanshightier",
+      "code": "DESO#590",
+      "rank": "Platinum 1",
+      "elo": 1818.5483318955662,
+      "wins": 21,
+      "losses": 38,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1823.3663337929365,
+      "eloDelta": -4.818001897370323,
+      "rankChange": "down",
+      "location": "ocean",
       "tournaments": []
     },
     {
