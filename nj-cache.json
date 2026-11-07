@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794064690652,
+  "lastUpdated": 1794065590657,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -103,6 +103,22 @@
       "tournaments": []
     },
     {
+      "tag": "JigglingMyPuffs",
+      "code": "SSL#398",
+      "rank": "Platinum 3",
+      "elo": 1968.0137308781095,
+      "wins": 68,
+      "losses": 52,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1953.4593109492325,
+      "eloDelta": 14.554419928876996,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Virus",
       "code": "MELE#292",
       "rank": "Platinum 3",
@@ -115,22 +131,6 @@
       "yesterdayElo": 1959.9514924413822,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "JigglingMyPuffs",
-      "code": "SSL#398",
-      "rank": "Platinum 3",
-      "elo": 1951.630267066969,
-      "wins": 66,
-      "losses": 52,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1953.4593109492325,
-      "eloDelta": -1.829043882263477,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
