@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794088091102,
+  "lastUpdated": 1794093491118,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -21,6 +21,24 @@
       ]
     },
     {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2527.6076987641422,
+      "wins": 78,
+      "losses": 19,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2508.7174569871713,
+      "eloDelta": 18.890241776970925,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
+    {
       "tag": ".",
       "code": "A#24",
       "rank": "Grandmaster",
@@ -35,24 +53,6 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2520.572243472445,
-      "wins": 76,
-      "losses": 19,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2508.7174569871713,
-      "eloDelta": 11.854786485273507,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "Tempo",
@@ -170,15 +170,15 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1822.7422903114623,
-      "wins": 50,
+      "elo": 1841.8272268906167,
+      "wins": 52,
       "losses": 52,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1822.7422903114623,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 19.084936579154373,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
