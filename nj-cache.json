@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794167294269,
+  "lastUpdated": 1794168194290,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -242,8 +242,8 @@
       "character": "MARTH",
       "secondary": "PIKACHU",
       "tertiary": "CAPTAIN_FALCON",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
@@ -369,8 +369,8 @@
       "character": "FOX",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
