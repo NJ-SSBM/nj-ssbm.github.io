@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794115991516,
+  "lastUpdated": 1794116891528,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -167,22 +167,6 @@
       "tournaments": []
     },
     {
-      "tag": "antwanshightier",
-      "code": "DESO#590",
-      "rank": "Platinum 2",
-      "elo": 1861.2651633649293,
-      "wins": 23,
-      "losses": 39,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1818.5483318955662,
-      "eloDelta": 42.716831469363115,
-      "rankChange": "up",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 2",
@@ -196,6 +180,22 @@
       "eloDelta": 24.856126066711795,
       "rankChange": "up",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "antwanshightier",
+      "code": "DESO#590",
+      "rank": "Platinum 1",
+      "elo": 1826.1991407099426,
+      "wins": 23,
+      "losses": 41,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1818.5483318955662,
+      "eloDelta": 7.650808814376433,
+      "rankChange": "up",
+      "location": "ocean",
       "tournaments": []
     },
     {
