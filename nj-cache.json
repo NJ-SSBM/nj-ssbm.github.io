@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794108791362,
+  "lastUpdated": 1794113291455,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -186,15 +186,15 @@
       "tag": "antwanshightier",
       "code": "DESO#590",
       "rank": "Platinum 1",
-      "elo": 1818.5483318955662,
+      "elo": 1807.2855261378004,
       "wins": 21,
-      "losses": 38,
+      "losses": 39,
       "character": "YOSHI",
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 1818.5483318955662,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -11.262805757765818,
+      "rankChange": "down",
       "location": "ocean",
       "tournaments": []
     },
