@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794160092205,
+  "lastUpdated": 1794167294269,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -233,6 +233,21 @@
       "tournaments": []
     },
     {
+      "tag": "HUZZAH!",
+      "code": "STEVE#0",
+      "rank": "Gold 2",
+      "elo": 1620.0142723702247,
+      "wins": 28,
+      "losses": 38,
+      "character": "MARTH",
+      "secondary": "PIKACHU",
+      "tertiary": "CAPTAIN_FALCON",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Gold 2",
@@ -341,6 +356,21 @@
       "yesterdayElo": 1267.3862516801642,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "Truekaiju",
+      "code": "TRUE#211",
+      "rank": "Silver 2",
+      "elo": 1219.0549923202022,
+      "wins": 5,
+      "losses": 7,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
