@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794192494681,
+  "lastUpdated": 1794193394701,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -154,14 +154,14 @@
       "tag": "greasysnakes",
       "code": "NJ#473",
       "rank": "Platinum 2",
-      "elo": 1862.4189708320919,
+      "elo": 1855.9571105941177,
       "wins": 18,
-      "losses": 23,
+      "losses": 24,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1880.505215742929,
-      "eloDelta": -18.086244910837195,
+      "eloDelta": -24.548105148811374,
       "rankChange": "down",
       "location": null,
       "tournaments": []
