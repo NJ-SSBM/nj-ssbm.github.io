@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794264151857,
+  "lastUpdated": 1794265051775,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -138,14 +138,14 @@
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 3",
-      "elo": 1929.13747894529,
-      "wins": 74,
+      "elo": 1937.179591049921,
+      "wins": 75,
       "losses": 76,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1909.4931239890075,
-      "eloDelta": 19.64435495628254,
+      "eloDelta": 27.68646706091363,
       "rankChange": "up",
       "location": null,
       "tournaments": []
