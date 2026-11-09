@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794265051775,
+  "lastUpdated": 1794265951794,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -233,6 +233,22 @@
       "tournaments": []
     },
     {
+      "tag": "beer climbers",
+      "code": "JAFA#300",
+      "rank": "Gold 3",
+      "elo": 1688.419183487887,
+      "wins": 5,
+      "losses": 2,
+      "character": "ICE_CLIMBERS",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1585.6103408615274,
+      "eloDelta": 102.80884262635959,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "HUZZAH!",
       "code": "STEVE#0",
       "rank": "Gold 2",
@@ -243,22 +259,6 @@
       "secondary": "PIKACHU",
       "tertiary": "CAPTAIN_FALCON",
       "yesterdayElo": 1620.0142723702247,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "beer climbers",
-      "code": "JAFA#300",
-      "rank": "Gold 2",
-      "elo": 1585.6103408615274,
-      "wins": 4,
-      "losses": 2,
-      "character": "ICE_CLIMBERS",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1585.6103408615274,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
