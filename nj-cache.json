@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794237931123,
+  "lastUpdated": 1794258751775,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -138,20 +138,20 @@
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
-      "elo": 1909.4931239890075,
-      "wins": 68,
-      "losses": 70,
+      "elo": 1917.5925604144359,
+      "wins": 70,
+      "losses": 71,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1909.4931239890075,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 8.099436425428394,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
     {
-      "tag": "greasysnakes",
+      "tag": "Twelfth",
       "code": "NJ#473",
       "rank": "Platinum 2",
       "elo": 1855.9571105941177,
