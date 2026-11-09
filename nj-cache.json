@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794181694431,
+  "lastUpdated": 1794182594466,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -267,15 +267,15 @@
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 1",
-      "elo": 1473.7380732518054,
+      "elo": 1453.2443262549782,
       "wins": 34,
-      "losses": 35,
+      "losses": 36,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1473.7380732518054,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -20.493746996827213,
+      "rankChange": "down",
       "location": "north",
       "tournaments": []
     },
