@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794336152880,
+  "lastUpdated": 1794337052897,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -119,6 +119,22 @@
       "tournaments": []
     },
     {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 3",
+      "elo": 1967.2466493789127,
+      "wins": 78,
+      "losses": 78,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1937.179591049921,
+      "eloDelta": 30.067058328991607,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Virus",
       "code": "MELE#292",
       "rank": "Platinum 3",
@@ -131,22 +147,6 @@
       "yesterdayElo": 1959.9514924413822,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "ernie",
-      "code": "BLUE#851",
-      "rank": "Platinum 3",
-      "elo": 1948.194224109832,
-      "wins": 77,
-      "losses": 78,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1937.179591049921,
-      "eloDelta": 11.01463305991092,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
