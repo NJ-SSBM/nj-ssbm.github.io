@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794343352991,
+  "lastUpdated": 1794344253043,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -274,8 +274,8 @@
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
