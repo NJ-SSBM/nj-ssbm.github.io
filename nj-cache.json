@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794353680696,
+  "lastUpdated": 1794354580697,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -170,15 +170,15 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1839.4641045917997,
-      "wins": 59,
-      "losses": 60,
+      "elo": 1833.8684679589524,
+      "wins": 60,
+      "losses": 61,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1839.9059956376473,
-      "eloDelta": -0.44189104584756933,
-      "rankChange": "none",
+      "eloDelta": -6.037527678694914,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
