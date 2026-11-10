@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794344253043,
+  "lastUpdated": 1794345153047,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -202,15 +202,15 @@
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Platinum 1",
-      "elo": 1805.5360225570876,
+      "elo": 1789.1301830647453,
       "wins": 9,
-      "losses": 6,
+      "losses": 7,
       "character": "ICE_CLIMBERS",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1805.5360225570876,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -16.40583949234224,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
