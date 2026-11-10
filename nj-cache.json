@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794340653040,
+  "lastUpdated": 1794343352991,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -261,6 +261,21 @@
       "yesterdayElo": 1620.0142723702247,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "Claw",
+      "code": "CLAW#615",
+      "rank": "Gold 2",
+      "elo": 1607.4771927197735,
+      "wins": 4,
+      "losses": 1,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
