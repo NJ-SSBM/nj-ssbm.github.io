@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794430182862,
+  "lastUpdated": 1794431082897,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -122,30 +122,14 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Diamond 1",
-      "elo": 2005.6292025322543,
-      "wins": 81,
+      "elo": 2012.6839598245335,
+      "wins": 82,
       "losses": 61,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2002.0426095531343,
-      "eloDelta": 3.5865929791200415,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "ernie",
-      "code": "BLUE#851",
-      "rank": "Platinum 3",
-      "elo": 1964.044383158706,
-      "wins": 81,
-      "losses": 80,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1956.4344989913905,
-      "eloDelta": 7.609884167315613,
+      "eloDelta": 10.641350271399233,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -163,6 +147,22 @@
       "yesterdayElo": 1959.9514924413822,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 3",
+      "elo": 1953.5781802448046,
+      "wins": 81,
+      "losses": 81,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1956.4344989913905,
+      "eloDelta": -2.8563187465858846,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
