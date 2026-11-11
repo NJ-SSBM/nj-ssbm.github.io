@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794369882095,
+  "lastUpdated": 1794370782145,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -64,8 +64,8 @@
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
