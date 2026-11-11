@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794426582855,
+  "lastUpdated": 1794427482852,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -202,14 +202,14 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1804.6325676408487,
-      "wins": 66,
+      "elo": 1820.0930796519108,
+      "wins": 67,
       "losses": 70,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "MARTH",
       "yesterdayElo": 1797.64811378751,
-      "eloDelta": 6.984453853338664,
+      "eloDelta": 22.44496586440073,
       "rankChange": "up",
       "location": null,
       "tournaments": []
