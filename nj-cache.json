@@ -1,19 +1,19 @@
 {
-  "lastUpdated": 1794440083137,
+  "lastUpdated": 1794440983185,
   "playerRanks": [
     {
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2569.5031699234587,
-      "wins": 105,
+      "elo": 2585.461424653561,
+      "wins": 107,
       "losses": 25,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2585.0495327407034,
-      "eloDelta": -15.546362817244699,
-      "rankChange": "down",
+      "eloDelta": 0.4118919128577545,
+      "rankChange": "none",
       "location": null,
       "tournaments": [
         "otw"
@@ -185,15 +185,15 @@
     {
       "tag": "theinstituter",
       "code": "BEL#294",
-      "rank": "Platinum 1",
-      "elo": 1838.5875136802438,
-      "wins": 69,
+      "rank": "Platinum 2",
+      "elo": 1848.2048670337772,
+      "wins": 70,
       "losses": 71,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1797.64811378751,
-      "eloDelta": 40.93939989273372,
+      "eloDelta": 50.556753246267135,
       "rankChange": "up",
       "location": null,
       "tournaments": []
