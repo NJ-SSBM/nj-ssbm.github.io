@@ -1,6 +1,24 @@
 {
-  "lastUpdated": 1794438283092,
+  "lastUpdated": 1794439183107,
   "playerRanks": [
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2564.0238174693277,
+      "wins": 103,
+      "losses": 25,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2585.0495327407034,
+      "eloDelta": -21.025715271375702,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
     {
       "tag": "kdog",
       "code": "KDOG#261",
@@ -17,24 +35,6 @@
       "location": null,
       "tournaments": [
         "rutgers",
-        "otw"
-      ]
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2547.4934891079006,
-      "wins": 100,
-      "losses": 25,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2585.0495327407034,
-      "eloDelta": -37.55604363280281,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": [
         "otw"
       ]
     },
@@ -122,14 +122,14 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Diamond 1",
-      "elo": 2045.4360835720213,
-      "wins": 84,
+      "elo": 2053.2049846166205,
+      "wins": 85,
       "losses": 61,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2002.0426095531343,
-      "eloDelta": 43.39347401888699,
+      "eloDelta": 51.16237506348625,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -199,6 +199,22 @@
       "tournaments": []
     },
     {
+      "tag": "theinstituter",
+      "code": "BEL#294",
+      "rank": "Platinum 1",
+      "elo": 1833.0934812311198,
+      "wins": 68,
+      "losses": 70,
+      "character": "CAPTAIN_FALCON",
+      "secondary": "GANONDORF",
+      "tertiary": "MARTH",
+      "yesterdayElo": 1797.64811378751,
+      "eloDelta": 35.44536744360971,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "HelpEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 1",
@@ -212,22 +228,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "theinstituter",
-      "code": "BEL#294",
-      "rank": "Platinum 1",
-      "elo": 1820.0930796519108,
-      "wins": 67,
-      "losses": 70,
-      "character": "CAPTAIN_FALCON",
-      "secondary": "GANONDORF",
-      "tertiary": "MARTH",
-      "yesterdayElo": 1797.64811378751,
-      "eloDelta": 22.44496586440073,
-      "rankChange": "up",
-      "location": null,
       "tournaments": []
     },
     {
