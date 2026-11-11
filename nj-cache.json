@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794359080831,
+  "lastUpdated": 1794360880847,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -105,16 +105,16 @@
     {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
-      "rank": "Diamond 1",
-      "elo": 2025.7561422843694,
+      "rank": "Platinum 3",
+      "elo": 2002.0426095531343,
       "wins": 80,
-      "losses": 57,
+      "losses": 59,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2008.5655787838245,
-      "eloDelta": 17.19056350054484,
-      "rankChange": "up",
+      "eloDelta": -6.522969230690251,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
@@ -186,14 +186,14 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1804.8610549080972,
-      "wins": 63,
-      "losses": 68,
+      "elo": 1799.715932092376,
+      "wins": 64,
+      "losses": 69,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "MARTH",
       "yesterdayElo": 1839.9059956376473,
-      "eloDelta": -35.044940729550035,
+      "eloDelta": -40.19006354527119,
       "rankChange": "down",
       "location": null,
       "tournaments": []
