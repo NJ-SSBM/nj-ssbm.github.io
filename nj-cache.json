@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794365380949,
+  "lastUpdated": 1794369882095,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -51,6 +51,21 @@
       "yesterdayElo": 2527.5803209680143,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "Jude :3",
+      "code": "GREC#116",
+      "rank": "Grandmaster",
+      "elo": 2491.7214137955802,
+      "wins": 17,
+      "losses": 3,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
