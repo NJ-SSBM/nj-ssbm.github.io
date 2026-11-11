@@ -1,24 +1,6 @@
 {
-  "lastUpdated": 1794422082832,
+  "lastUpdated": 1794422982873,
   "playerRanks": [
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2574.025251855675,
-      "wins": 96,
-      "losses": 22,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2585.0495327407034,
-      "eloDelta": -11.024280885028475,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
-    },
     {
       "tag": "kdog",
       "code": "KDOG#261",
@@ -35,6 +17,24 @@
       "location": null,
       "tournaments": [
         "rutgers",
+        "otw"
+      ]
+    },
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2543.0681719848144,
+      "wins": 96,
+      "losses": 23,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2585.0495327407034,
+      "eloDelta": -41.981360755889,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
         "otw"
       ]
     },
