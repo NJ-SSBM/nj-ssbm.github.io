@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794475183615,
+  "lastUpdated": 1794476083638,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -183,6 +183,22 @@
       "tournaments": []
     },
     {
+      "tag": "NeedEEIntrnship",
+      "code": "DESO#590",
+      "rank": "Platinum 2",
+      "elo": 1892.8268415369437,
+      "wins": 35,
+      "losses": 51,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1877.8154430843485,
+      "eloDelta": 15.011398452595131,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Platinum 2",
@@ -196,22 +212,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "NeedEEIntrnship",
-      "code": "DESO#590",
-      "rank": "Platinum 2",
-      "elo": 1885.355977439645,
-      "wins": 34,
-      "losses": 50,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 7.540534355296359,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
