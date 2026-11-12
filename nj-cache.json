@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794522828384,
+  "lastUpdated": 1794523728385,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -182,22 +182,6 @@
       "tournaments": []
     },
     {
-      "tag": "ernie",
-      "code": "BLUE#851",
-      "rank": "Platinum 2",
-      "elo": 1918.7637558128934,
-      "wins": 84,
-      "losses": 87,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1913.0969932405224,
-      "eloDelta": 5.666762572370999,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "NeedEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 2",
@@ -211,6 +195,22 @@
       "eloDelta": 39.59226695498978,
       "rankChange": "up",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 2",
+      "elo": 1906.6839597706492,
+      "wins": 84,
+      "losses": 89,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1913.0969932405224,
+      "eloDelta": -6.4130334698731986,
+      "rankChange": "down",
+      "location": null,
       "tournaments": []
     },
     {
@@ -421,6 +421,22 @@
       "tournaments": []
     },
     {
+      "tag": "og infant",
+      "code": "TUAH#67",
+      "rank": "Silver 2",
+      "elo": 1229.8707232889637,
+      "wins": 7,
+      "losses": 2,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1175.6731295581303,
+      "eloDelta": 54.19759373083343,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -431,22 +447,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1219.0549923202022,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "og infant",
-      "code": "TUAH#67",
-      "rank": "Silver 1",
-      "elo": 1175.6731295581303,
-      "wins": 5,
-      "losses": 2,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1175.6731295581303,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
