@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794460783462,
+  "lastUpdated": 1794461683573,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -409,6 +409,22 @@
       "tournaments": []
     },
     {
+      "tag": "KIRBY MASTER 67",
+      "code": "RISN#993",
+      "rank": "Silver 2",
+      "elo": 1230.3182470395905,
+      "wins": 3,
+      "losses": 14,
+      "character": "KIRBY",
+      "secondary": "FOX",
+      "tertiary": "JIGGLYPUFF",
+      "yesterdayElo": 1180.7684040366469,
+      "eloDelta": 49.54984300294359,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -436,22 +452,6 @@
       "tertiary": "",
       "eloDelta": 0,
       "rankChange": "new",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "KIRBY MASTER 67",
-      "code": "RISN#993",
-      "rank": "Silver 1",
-      "elo": 1150.7837249993318,
-      "wins": 2,
-      "losses": 13,
-      "character": "KIRBY",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1180.7684040366469,
-      "eloDelta": -29.984679037315118,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     }
