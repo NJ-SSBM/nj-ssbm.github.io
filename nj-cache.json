@@ -1,19 +1,19 @@
 {
-  "lastUpdated": 1794509755703,
+  "lastUpdated": 1794515154698,
   "playerRanks": [
     {
       "tag": "kdog",
       "code": "KDOG#261",
       "rank": "Grandmaster",
-      "elo": 2551.721457651299,
+      "elo": 2547.6101020199567,
       "wins": 30,
-      "losses": 6,
+      "losses": 7,
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2551.721457651299,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -4.111355631342121,
+      "rankChange": "down",
       "location": null,
       "tournaments": [
         "rutgers",
