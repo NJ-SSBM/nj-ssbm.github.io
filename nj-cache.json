@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794444583215,
+  "lastUpdated": 1794445483260,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -167,6 +167,22 @@
       "tournaments": []
     },
     {
+      "tag": "beer climbers",
+      "code": "JAFA#300",
+      "rank": "Platinum 2",
+      "elo": 1895.7822217895914,
+      "wins": 11,
+      "losses": 7,
+      "character": "ICE_CLIMBERS",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1789.1301830647453,
+      "eloDelta": 106.65203872484608,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Platinum 2",
@@ -194,22 +210,6 @@
       "tertiary": "FALCO",
       "yesterdayElo": 1797.64811378751,
       "eloDelta": 50.556753246267135,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "beer climbers",
-      "code": "JAFA#300",
-      "rank": "Platinum 1",
-      "elo": 1836.451450662652,
-      "wins": 10,
-      "losses": 7,
-      "character": "ICE_CLIMBERS",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1789.1301830647453,
-      "eloDelta": 47.321267597906626,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -393,6 +393,22 @@
       "tournaments": []
     },
     {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 2",
+      "elo": 1245.0736954176368,
+      "wins": 9,
+      "losses": 14,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1178.0908703730834,
+      "eloDelta": 66.98282504455346,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -406,22 +422,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "PeanutbuttaRyan",
-      "code": "RYDA#315",
-      "rank": "Silver 2",
-      "elo": 1209.6969224994173,
-      "wins": 8,
-      "losses": 14,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1178.0908703730834,
-      "eloDelta": 31.606052126333907,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
