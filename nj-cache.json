@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794496784044,
+  "lastUpdated": 1794505890937,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -53,22 +53,6 @@
       "tournaments": [
         "otw"
       ]
-    },
-    {
-      "tag": "Jude :3",
-      "code": "GREC#116",
-      "rank": "Grandmaster",
-      "elo": 2491.7214137955802,
-      "wins": 17,
-      "losses": 3,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2491.7214137955802,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
     },
     {
       "tag": "Tempo",
