@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794515154698,
+  "lastUpdated": 1794517854771,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -150,6 +150,22 @@
       "tournaments": []
     },
     {
+      "tag": "beer climbers",
+      "code": "JAFA#300",
+      "rank": "Platinum 3",
+      "elo": 1929.180395893844,
+      "wins": 12,
+      "losses": 7,
+      "character": "ICE_CLIMBERS",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1895.7822217895914,
+      "eloDelta": 33.398174104252575,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "NeedEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 2",
@@ -176,22 +192,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1913.0969932405224,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "beer climbers",
-      "code": "JAFA#300",
-      "rank": "Platinum 2",
-      "elo": 1895.7822217895914,
-      "wins": 11,
-      "losses": 7,
-      "character": "ICE_CLIMBERS",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1895.7822217895914,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
