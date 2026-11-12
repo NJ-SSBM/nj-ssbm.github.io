@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794440983185,
+  "lastUpdated": 1794441883232,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -389,6 +389,21 @@
       "yesterdayElo": 1267.3862516801642,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "me is 47",
+      "code": "TUAH#67",
+      "rank": "Silver 2",
+      "elo": 1235.9454376523665,
+      "wins": 5,
+      "losses": 1,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
