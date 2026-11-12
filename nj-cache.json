@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794476083638,
+  "lastUpdated": 1794476983672,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -167,6 +167,22 @@
       "tournaments": []
     },
     {
+      "tag": "NeedEEIntrnship",
+      "code": "DESO#590",
+      "rank": "Platinum 2",
+      "elo": 1909.49601173784,
+      "wins": 36,
+      "losses": 51,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1877.8154430843485,
+      "eloDelta": 31.68056865349149,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Platinum 2",
@@ -180,22 +196,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "NeedEEIntrnship",
-      "code": "DESO#590",
-      "rank": "Platinum 2",
-      "elo": 1892.8268415369437,
-      "wins": 35,
-      "losses": 51,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 15.011398452595131,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
