@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794477883671,
+  "lastUpdated": 1794481483764,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -154,14 +154,14 @@
       "tag": "NeedEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 2",
-      "elo": 1916.218166951263,
-      "wins": 37,
+      "elo": 1917.4077100393383,
+      "wins": 38,
       "losses": 51,
       "character": "YOSHI",
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 38.40272386691436,
+      "eloDelta": 39.59226695498978,
       "rankChange": "up",
       "location": "ocean",
       "tournaments": []
