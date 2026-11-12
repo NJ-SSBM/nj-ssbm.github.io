@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794458983441,
+  "lastUpdated": 1794459883466,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -428,14 +428,14 @@
       "tag": "KIRBY MASTER 67",
       "code": "RISN#993",
       "rank": "Silver 2",
-      "elo": 1216.4128221650392,
+      "elo": 1198.3465544842284,
       "wins": 2,
-      "losses": 9,
+      "losses": 10,
       "character": "KIRBY",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1180.7684040366469,
-      "eloDelta": 35.64441812839232,
+      "eloDelta": 17.578150447581493,
       "rankChange": "up",
       "location": null,
       "tournaments": []
