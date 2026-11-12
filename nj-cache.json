@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794457183437,
+  "lastUpdated": 1794458083422,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -122,14 +122,14 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Diamond 1",
-      "elo": 2072.5397987720357,
+      "elo": 2043.5453433764264,
       "wins": 90,
-      "losses": 64,
+      "losses": 66,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2002.0426095531343,
-      "eloDelta": 70.49718921890144,
+      "eloDelta": 41.50273382329215,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -361,22 +361,6 @@
       "tournaments": []
     },
     {
-      "tag": "KIRBY MASTER 67",
-      "code": "RISN#993",
-      "rank": "Silver 2",
-      "elo": 1291.340769509207,
-      "wins": 2,
-      "losses": 5,
-      "character": "KIRBY",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1180.7684040366469,
-      "eloDelta": 110.57236547256002,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -405,6 +389,22 @@
       "yesterdayElo": 1267.3862516801642,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "KIRBY MASTER 67",
+      "code": "RISN#993",
+      "rank": "Silver 2",
+      "elo": 1245.8559351599672,
+      "wins": 2,
+      "losses": 7,
+      "character": "KIRBY",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1180.7684040366469,
+      "eloDelta": 65.08753112332033,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
