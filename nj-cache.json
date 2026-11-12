@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794520128614,
+  "lastUpdated": 1794521928391,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -182,6 +182,22 @@
       "tournaments": []
     },
     {
+      "tag": "ernie",
+      "code": "BLUE#851",
+      "rank": "Platinum 2",
+      "elo": 1923.3592291014743,
+      "wins": 84,
+      "losses": 86,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1913.0969932405224,
+      "eloDelta": 10.262235860951932,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "NeedEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 2",
@@ -195,22 +211,6 @@
       "eloDelta": 39.59226695498978,
       "rankChange": "up",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "ernie",
-      "code": "BLUE#851",
-      "rank": "Platinum 2",
-      "elo": 1913.0969932405224,
-      "wins": 83,
-      "losses": 86,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1913.0969932405224,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
       "tournaments": []
     },
     {
