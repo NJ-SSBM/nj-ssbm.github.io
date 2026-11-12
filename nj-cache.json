@@ -1,24 +1,6 @@
 {
-  "lastUpdated": 1794442783219,
+  "lastUpdated": 1794443683225,
   "playerRanks": [
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2585.461424653561,
-      "wins": 107,
-      "losses": 25,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2585.0495327407034,
-      "eloDelta": 0.4118919128577545,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
-    },
     {
       "tag": "kdog",
       "code": "KDOG#261",
@@ -35,6 +17,24 @@
       "location": null,
       "tournaments": [
         "rutgers",
+        "otw"
+      ]
+    },
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2541.7731330530437,
+      "wins": 108,
+      "losses": 27,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2585.0495327407034,
+      "eloDelta": -43.276399687659705,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
         "otw"
       ]
     },
@@ -393,21 +393,6 @@
       "tournaments": []
     },
     {
-      "tag": "og infant",
-      "code": "TUAH#67",
-      "rank": "Silver 2",
-      "elo": 1235.9454376523665,
-      "wins": 5,
-      "losses": 1,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "eloDelta": 0,
-      "rankChange": "new",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -453,6 +438,21 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "og infant",
+      "code": "TUAH#67",
+      "rank": "Silver 1",
+      "elo": 1175.6731295581303,
+      "wins": 5,
+      "losses": 2,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "eloDelta": 0,
+      "rankChange": "new",
+      "location": null,
       "tournaments": []
     }
   ]
