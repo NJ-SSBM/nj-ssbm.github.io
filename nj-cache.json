@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794508119028,
+  "lastUpdated": 1794508854565,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -53,6 +53,21 @@
       "tournaments": [
         "otw"
       ]
+    },
+    {
+      "tag": "Jude :3",
+      "code": "GREC#116",
+      "rank": "Grandmaster",
+      "elo": 2491.7214137955802,
+      "wins": 17,
+      "losses": 3,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
+      "tournaments": []
     },
     {
       "tag": "Tempo",
@@ -211,6 +226,21 @@
       "yesterdayElo": 1806.0659089252654,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "Arzada",
+      "code": "ZADA#734",
+      "rank": "Gold 3",
+      "elo": 1738.8221727613532,
+      "wins": 8,
+      "losses": 11,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "SHEIK",
+      "rankChange": "new",
+      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
