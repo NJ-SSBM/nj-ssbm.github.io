@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794505890937,
+  "lastUpdated": 1794508119028,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -213,24 +213,6 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
-    },
-    {
-      "tag": "Arzada",
-      "code": "ZADA#734",
-      "rank": "Gold 3",
-      "elo": 1738.8221727613532,
-      "wins": 8,
-      "losses": 11,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "SHEIK",
-      "yesterdayElo": 1738.8221727613532,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "ocean",
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "The Milkman",
