@@ -1,6 +1,24 @@
 {
-  "lastUpdated": 1794448183335,
+  "lastUpdated": 1794449083309,
   "playerRanks": [
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2552.4491731948583,
+      "wins": 110,
+      "losses": 27,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2585.0495327407034,
+      "eloDelta": -32.600359545845095,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
     {
       "tag": "kdog",
       "code": "KDOG#261",
@@ -17,24 +35,6 @@
       "location": null,
       "tournaments": [
         "rutgers",
-        "otw"
-      ]
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2548.345589043932,
-      "wins": 109,
-      "losses": 27,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2585.0495327407034,
-      "eloDelta": -36.7039436967716,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": [
         "otw"
       ]
     },
@@ -199,22 +199,6 @@
       "tournaments": []
     },
     {
-      "tag": "theinstituter",
-      "code": "BEL#294",
-      "rank": "Platinum 1",
-      "elo": 1833.7017745894739,
-      "wins": 71,
-      "losses": 73,
-      "character": "CAPTAIN_FALCON",
-      "secondary": "GANONDORF",
-      "tertiary": "FALCO",
-      "yesterdayElo": 1797.64811378751,
-      "eloDelta": 36.053660801963815,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "HelpEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 1",
@@ -228,6 +212,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "theinstituter",
+      "code": "BEL#294",
+      "rank": "Platinum 1",
+      "elo": 1806.1747048357606,
+      "wins": 71,
+      "losses": 75,
+      "character": "CAPTAIN_FALCON",
+      "secondary": "GANONDORF",
+      "tertiary": "FALCO",
+      "yesterdayElo": 1797.64811378751,
+      "eloDelta": 8.526591048250566,
+      "rankChange": "up",
+      "location": null,
       "tournaments": []
     },
     {
