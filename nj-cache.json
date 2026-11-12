@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794517854771,
+  "lastUpdated": 1794520128614,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "tag": ".",
+      "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
       "elo": 2527.5803209680143,
@@ -134,6 +134,22 @@
       "tournaments": []
     },
     {
+      "tag": "beer climbers",
+      "code": "JAFA#300",
+      "rank": "Platinum 3",
+      "elo": 1960.3884201412695,
+      "wins": 14,
+      "losses": 9,
+      "character": "ICE_CLIMBERS",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1895.7822217895914,
+      "eloDelta": 64.60619835167813,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Virus",
       "code": "MELE#292",
       "rank": "Platinum 3",
@@ -150,17 +166,17 @@
       "tournaments": []
     },
     {
-      "tag": "beer climbers",
-      "code": "JAFA#300",
-      "rank": "Platinum 3",
-      "elo": 1929.180395893844,
-      "wins": 12,
-      "losses": 7,
-      "character": "ICE_CLIMBERS",
+      "tag": "DARK ENOUGH",
+      "code": "NJ#473",
+      "rank": "Platinum 2",
+      "elo": 1925.2158243961767,
+      "wins": 21,
+      "losses": 25,
+      "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
-      "yesterdayElo": 1895.7822217895914,
-      "eloDelta": 33.398174104252575,
+      "yesterdayElo": 1892.2574382636749,
+      "eloDelta": 32.9583861325018,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -192,22 +208,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1913.0969932405224,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "DARK ENOUGH",
-      "code": "NJ#473",
-      "rank": "Platinum 2",
-      "elo": 1892.2574382636749,
-      "wins": 20,
-      "losses": 25,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1892.2574382636749,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
