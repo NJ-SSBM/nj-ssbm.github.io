@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794459883466,
+  "lastUpdated": 1794460783462,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -186,14 +186,14 @@
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Platinum 2",
-      "elo": 1865.7789312245382,
-      "wins": 19,
+      "elo": 1892.2574382636749,
+      "wins": 20,
       "losses": 25,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1855.9571105941177,
-      "eloDelta": 9.821820630420461,
+      "eloDelta": 36.30032766955719,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -425,22 +425,6 @@
       "tournaments": []
     },
     {
-      "tag": "KIRBY MASTER 67",
-      "code": "RISN#993",
-      "rank": "Silver 2",
-      "elo": 1198.3465544842284,
-      "wins": 2,
-      "losses": 10,
-      "character": "KIRBY",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1180.7684040366469,
-      "eloDelta": 17.578150447581493,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "og infant",
       "code": "TUAH#67",
       "rank": "Silver 1",
@@ -452,6 +436,22 @@
       "tertiary": "",
       "eloDelta": 0,
       "rankChange": "new",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "KIRBY MASTER 67",
+      "code": "RISN#993",
+      "rank": "Silver 1",
+      "elo": 1150.7837249993318,
+      "wins": 2,
+      "losses": 13,
+      "character": "KIRBY",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1180.7684040366469,
+      "eloDelta": -29.984679037315118,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     }
