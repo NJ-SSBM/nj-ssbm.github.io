@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794443683225,
+  "lastUpdated": 1794444583215,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -24,14 +24,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2541.7731330530437,
-      "wins": 108,
+      "elo": 2548.345589043932,
+      "wins": 109,
       "losses": 27,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2585.0495327407034,
-      "eloDelta": -43.276399687659705,
+      "eloDelta": -36.7039436967716,
       "rankChange": "down",
       "location": null,
       "tournaments": [
@@ -409,6 +409,22 @@
       "tournaments": []
     },
     {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 2",
+      "elo": 1209.6969224994173,
+      "wins": 8,
+      "losses": 14,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1178.0908703730834,
+      "eloDelta": 31.606052126333907,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "KIRBY MASTER 67",
       "code": "RISN#993",
       "rank": "Silver 1",
@@ -422,22 +438,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "PeanutbuttaRyan",
-      "code": "RYDA#315",
-      "rank": "Silver 1",
-      "elo": 1178.0908703730834,
-      "wins": 7,
-      "losses": 14,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1178.0908703730834,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "ocean",
       "tournaments": []
     },
     {
