@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794508854565,
+  "lastUpdated": 1794509755703,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -64,8 +64,8 @@
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
@@ -239,8 +239,8 @@
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "SHEIK",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
