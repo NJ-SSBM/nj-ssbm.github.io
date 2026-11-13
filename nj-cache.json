@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794544657162,
+  "lastUpdated": 1794545557174,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -134,6 +134,22 @@
       "tournaments": []
     },
     {
+      "tag": "NeedEEIntrnship",
+      "code": "DESO#590",
+      "rank": "Platinum 3",
+      "elo": 1962.18082091651,
+      "wins": 41,
+      "losses": 52,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1877.8154430843485,
+      "eloDelta": 84.36537783216136,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Platinum 3",
@@ -163,22 +179,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "NeedEEIntrnship",
-      "code": "DESO#590",
-      "rank": "Platinum 3",
-      "elo": 1948.4399913873829,
-      "wins": 40,
-      "losses": 51,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 70.62454830303432,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
