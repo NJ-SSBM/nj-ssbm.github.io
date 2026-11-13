@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794547357196,
+  "lastUpdated": 1794548257212,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -58,14 +58,14 @@
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
-      "elo": 2511.5562251556776,
-      "wins": 37,
+      "elo": 2519.2101996375104,
+      "wins": 39,
       "losses": 11,
       "character": "ICE_CLIMBERS",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2527.5803209680143,
-      "eloDelta": -16.024095812336782,
+      "eloDelta": -8.370121330503935,
       "rankChange": "down",
       "location": null,
       "tournaments": []
@@ -137,14 +137,14 @@
       "tag": "NeedEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 3",
-      "elo": 1975.5821973369934,
-      "wins": 42,
-      "losses": 53,
+      "elo": 1983.4713395169545,
+      "wins": 43,
+      "losses": 54,
       "character": "YOSHI",
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 97.76675425264489,
+      "eloDelta": 105.65589643260591,
       "rankChange": "up",
       "location": "ocean",
       "tournaments": []
