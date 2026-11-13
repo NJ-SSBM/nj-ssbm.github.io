@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794545557174,
+  "lastUpdated": 1794546457229,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -37,22 +37,6 @@
       ]
     },
     {
-      "tag": "I Rigged Summit",
-      "code": "A#24",
-      "rank": "Grandmaster",
-      "elo": 2527.5803209680143,
-      "wins": 35,
-      "losses": 10,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2527.5803209680143,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
@@ -69,6 +53,22 @@
       "tournaments": [
         "otw"
       ]
+    },
+    {
+      "tag": "I Rigged Summit",
+      "code": "A#24",
+      "rank": "Grandmaster",
+      "elo": 2503.6204923175073,
+      "wins": 36,
+      "losses": 11,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2527.5803209680143,
+      "eloDelta": -23.959828650507006,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
     },
     {
       "tag": "Jude :3",
