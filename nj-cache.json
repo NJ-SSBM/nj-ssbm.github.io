@@ -1,22 +1,6 @@
 {
-  "lastUpdated": 1794541957160,
+  "lastUpdated": 1794542857138,
   "playerRanks": [
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2558.6129696586886,
-      "wins": 182,
-      "losses": 49,
-      "character": "PEACH",
-      "secondary": "SHEIK",
-      "tertiary": "FOX",
-      "yesterdayElo": 2470.57837423194,
-      "eloDelta": 88.03459542674864,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
     {
       "tag": "kdog",
       "code": "KDOG#261",
@@ -35,6 +19,22 @@
         "rutgers",
         "otw"
       ]
+    },
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2546.7622209189717,
+      "wins": 184,
+      "losses": 50,
+      "character": "PEACH",
+      "secondary": "SHEIK",
+      "tertiary": "FOX",
+      "yesterdayElo": 2470.57837423194,
+      "eloDelta": 76.18384668703175,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
     },
     {
       "tag": "I Rigged Summit",
@@ -166,6 +166,22 @@
       "tournaments": []
     },
     {
+      "tag": "NeedEEIntrnship",
+      "code": "DESO#590",
+      "rank": "Platinum 3",
+      "elo": 1939.4075858680003,
+      "wins": 39,
+      "losses": 51,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1877.8154430843485,
+      "eloDelta": 61.59214278365175,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Platinum 2",
@@ -179,22 +195,6 @@
       "eloDelta": 32.9583861325018,
       "rankChange": "up",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "NeedEEIntrnship",
-      "code": "DESO#590",
-      "rank": "Platinum 2",
-      "elo": 1917.4077100393383,
-      "wins": 38,
-      "losses": 51,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 39.59226695498978,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
