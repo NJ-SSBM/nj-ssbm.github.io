@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794549157225,
+  "lastUpdated": 1794550057212,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -137,14 +137,14 @@
       "tag": "NeedEEIntrnship",
       "code": "DESO#590",
       "rank": "Platinum 3",
-      "elo": 1993.817878176026,
+      "elo": 1988.2282619225937,
       "wins": 44,
-      "losses": 54,
+      "losses": 55,
       "character": "YOSHI",
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 116.0024350916774,
+      "eloDelta": 110.41281883824513,
       "rankChange": "up",
       "location": "ocean",
       "tournaments": []
