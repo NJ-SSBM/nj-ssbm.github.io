@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794552757261,
+  "lastUpdated": 1794553657266,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -118,6 +118,22 @@
       "tournaments": []
     },
     {
+      "tag": "NeedEEIntrnship",
+      "code": "DESO#590",
+      "rank": "Diamond 1",
+      "elo": 2022.1119745700175,
+      "wins": 47,
+      "losses": 57,
+      "character": "YOSHI",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1877.8154430843485,
+      "eloDelta": 144.296531485669,
+      "rankChange": "up",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
@@ -131,22 +147,6 @@
       "eloDelta": -45.842254723801034,
       "rankChange": "down",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "NeedEEIntrnship",
-      "code": "DESO#590",
-      "rank": "Platinum 3",
-      "elo": 1995.7559882423443,
-      "wins": 46,
-      "losses": 57,
-      "character": "YOSHI",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1877.8154430843485,
-      "eloDelta": 117.94054515799576,
-      "rankChange": "up",
-      "location": "ocean",
       "tournaments": []
     },
     {
