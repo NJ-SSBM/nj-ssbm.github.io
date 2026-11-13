@@ -1,6 +1,22 @@
 {
-  "lastUpdated": 1794535657135,
+  "lastUpdated": 1794541057118,
   "playerRanks": [
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2556.609274652148,
+      "wins": 181,
+      "losses": 49,
+      "character": "PEACH",
+      "secondary": "SHEIK",
+      "tertiary": "FOX",
+      "yesterdayElo": 2470.57837423194,
+      "eloDelta": 86.03090042020813,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
     {
       "tag": "kdog",
       "code": "KDOG#261",
@@ -19,22 +35,6 @@
         "rutgers",
         "otw"
       ]
-    },
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2544.8119055380503,
-      "wins": 179,
-      "losses": 49,
-      "character": "PEACH",
-      "secondary": "SHEIK",
-      "tertiary": "FOX",
-      "yesterdayElo": 2470.57837423194,
-      "eloDelta": 74.23353130611031,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
     },
     {
       "tag": "I Rigged Summit",
