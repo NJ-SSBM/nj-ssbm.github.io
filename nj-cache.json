@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794534757032,
+  "lastUpdated": 1794535657135,
   "playerRanks": [
     {
       "tag": "kdog",
@@ -295,15 +295,15 @@
     {
       "tag": "SWAGHAVER69",
       "code": "HLWY#908",
-      "rank": "Gold 1",
-      "elo": 1504.9392411354042,
-      "wins": 9,
+      "rank": "Gold 2",
+      "elo": 1563.3691618346513,
+      "wins": 11,
       "losses": 7,
       "character": "SHEIK",
       "secondary": "FOX",
       "tertiary": "LUIGI",
       "yesterdayElo": 1422.1132360681986,
-      "eloDelta": 82.82600506720564,
+      "eloDelta": 141.25592576645272,
       "rankChange": "up",
       "location": null,
       "tournaments": []
