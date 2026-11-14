@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794685715015,
+  "lastUpdated": 1794686613321,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -218,15 +218,15 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1806.0659089252654,
-      "wins": 77,
-      "losses": 80,
+      "elo": 1795.5237766313094,
+      "wins": 78,
+      "losses": 81,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1806.0659089252654,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -10.542132293956001,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
@@ -346,14 +346,14 @@
       "tag": "young linkj",
       "code": "TUAH#67",
       "rank": "Silver 3",
-      "elo": 1400.050275278459,
-      "wins": 13,
+      "elo": 1403.585460513576,
+      "wins": 14,
       "losses": 2,
       "character": "FOX",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1240.0836458815616,
-      "eloDelta": 159.96662939689736,
+      "eloDelta": 163.50181463201443,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -375,7 +375,7 @@
       "tournaments": []
     },
     {
-      "tag": "start.gg/rgtbo",
+      "tag": "Undeadmatrix",
       "code": "DEAD#342",
       "rank": "Silver 3",
       "elo": 1340.1923147587636,
