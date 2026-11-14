@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794633383924,
+  "lastUpdated": 1794634283929,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -378,15 +378,15 @@
       "tag": "UrethraFranklin",
       "code": "DICK#254",
       "rank": "Silver 2",
-      "elo": 1267.3862516801642,
-      "wins": 6,
+      "elo": 1271.5618942743554,
+      "wins": 7,
       "losses": 6,
       "character": "SHEIK",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1267.3862516801642,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 4.175642594191231,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
