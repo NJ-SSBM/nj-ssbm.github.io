@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794683913399,
+  "lastUpdated": 1794684813521,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -359,6 +359,22 @@
       "tournaments": []
     },
     {
+      "tag": "young linkj",
+      "code": "TUAH#67",
+      "rank": "Silver 3",
+      "elo": 1377.8692507483554,
+      "wins": 12,
+      "losses": 2,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1240.0836458815616,
+      "eloDelta": 137.78560486679385,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "start.gg/rgtbo",
       "code": "DEAD#342",
       "rank": "Silver 3",
@@ -371,22 +387,6 @@
       "yesterdayElo": 1340.1923147587636,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "young linkj",
-      "code": "TUAH#67",
-      "rank": "Silver 3",
-      "elo": 1326.0887263832192,
-      "wins": 10,
-      "losses": 2,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1240.0836458815616,
-      "eloDelta": 86.00508050165763,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
