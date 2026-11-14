@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794636084024,
+  "lastUpdated": 1794636984011,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -21,14 +21,14 @@
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
-      "elo": 2549.7123765569977,
-      "wins": 42,
+      "elo": 2555.7939960316307,
+      "wins": 44,
       "losses": 11,
       "character": "ICE_CLIMBERS",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2519.2101996375104,
-      "eloDelta": 30.502176919487283,
+      "eloDelta": 36.58379639412033,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -343,6 +343,22 @@
       "tournaments": []
     },
     {
+      "tag": "UrethraFranklin",
+      "code": "DICK#254",
+      "rank": "Silver 3",
+      "elo": 1370.8843715142648,
+      "wins": 10,
+      "losses": 6,
+      "character": "SHEIK",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1267.3862516801642,
+      "eloDelta": 103.49811983410063,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "start.gg/rgtbo",
       "code": "DEAD#342",
       "rank": "Silver 3",
@@ -355,22 +371,6 @@
       "yesterdayElo": 1340.1923147587636,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "UrethraFranklin",
-      "code": "DICK#254",
-      "rank": "Silver 3",
-      "elo": 1329.8287561391185,
-      "wins": 9,
-      "losses": 6,
-      "character": "SHEIK",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1267.3862516801642,
-      "eloDelta": 62.44250445895432,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
