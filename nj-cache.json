@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794637884046,
+  "lastUpdated": 1794638784088,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -21,14 +21,14 @@
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
-      "elo": 2564.1097067602614,
-      "wins": 46,
+      "elo": 2572.3998102492833,
+      "wins": 47,
       "losses": 11,
       "character": "ICE_CLIMBERS",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2519.2101996375104,
-      "eloDelta": 44.89950712275095,
+      "eloDelta": 53.18961061177288,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -346,14 +346,14 @@
       "tag": "UrethraFranklin",
       "code": "DICK#254",
       "rank": "Silver 3",
-      "elo": 1370.8843715142648,
-      "wins": 10,
+      "elo": 1380.752606333865,
+      "wins": 11,
       "losses": 6,
       "character": "SHEIK",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1267.3862516801642,
-      "eloDelta": 103.49811983410063,
+      "eloDelta": 113.36635465370091,
       "rankChange": "up",
       "location": null,
       "tournaments": []
