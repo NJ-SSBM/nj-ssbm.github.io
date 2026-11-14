@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794636984011,
+  "lastUpdated": 1794637884046,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -21,14 +21,14 @@
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
-      "elo": 2555.7939960316307,
-      "wins": 44,
+      "elo": 2564.1097067602614,
+      "wins": 46,
       "losses": 11,
       "character": "ICE_CLIMBERS",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2519.2101996375104,
-      "eloDelta": 36.58379639412033,
+      "eloDelta": 44.89950712275095,
       "rankChange": "up",
       "location": null,
       "tournaments": []
