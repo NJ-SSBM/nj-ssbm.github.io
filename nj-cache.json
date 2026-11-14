@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794692012683,
+  "lastUpdated": 1794692912635,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -183,22 +183,6 @@
       "tournaments": []
     },
     {
-      "tag": "DARK ENOUGH",
-      "code": "NJ#473",
-      "rank": "Platinum 2",
-      "elo": 1922.2318648681917,
-      "wins": 21,
-      "losses": 26,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1925.2158243961767,
-      "eloDelta": -2.9839595279850073,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
@@ -211,6 +195,22 @@
       "yesterdayElo": 1913.2824734983733,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "DARK ENOUGH",
+      "code": "NJ#473",
+      "rank": "Platinum 2",
+      "elo": 1893.9824466633318,
+      "wins": 21,
+      "losses": 27,
+      "character": "MARTH",
+      "secondary": "FOX",
+      "tertiary": "",
+      "yesterdayElo": 1925.2158243961767,
+      "eloDelta": -31.23337773284493,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
