@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794688412722,
+  "lastUpdated": 1794689312594,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -119,7 +119,7 @@
       "tournaments": []
     },
     {
-      "tag": "NeedEEIntrnship",
+      "tag": "PlzEngIntrnship",
       "code": "DESO#590",
       "rank": "Diamond 1",
       "elo": 2025.8550027923663,
@@ -218,15 +218,15 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1799.4631648365603,
-      "wins": 79,
+      "elo": 1808.6206572375365,
+      "wins": 80,
       "losses": 81,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1806.0659089252654,
-      "eloDelta": -6.602744088705094,
-      "rankChange": "down",
+      "eloDelta": 2.5547483122711583,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
