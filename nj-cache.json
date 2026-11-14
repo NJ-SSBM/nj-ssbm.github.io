@@ -1,18 +1,18 @@
 {
-  "lastUpdated": 1794630683933,
+  "lastUpdated": 1794632483982,
   "playerRanks": [
     {
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2624.8396663101585,
-      "wins": 209,
+      "elo": 2630.6664482818787,
+      "wins": 211,
       "losses": 51,
       "character": "PEACH",
       "secondary": "SHEIK",
       "tertiary": "FOX",
       "yesterdayElo": 2552.0609458701506,
-      "eloDelta": 72.77872044000787,
+      "eloDelta": 78.60550241172814,
       "rankChange": "up",
       "location": null,
       "tournaments": []
