@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794686613321,
+  "lastUpdated": 1794688412722,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -218,14 +218,14 @@
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 1",
-      "elo": 1795.5237766313094,
-      "wins": 78,
+      "elo": 1799.4631648365603,
+      "wins": 79,
       "losses": 81,
       "character": "CAPTAIN_FALCON",
       "secondary": "GANONDORF",
       "tertiary": "FALCO",
       "yesterdayElo": 1806.0659089252654,
-      "eloDelta": -10.542132293956001,
+      "eloDelta": -6.602744088705094,
       "rankChange": "down",
       "location": null,
       "tournaments": []
