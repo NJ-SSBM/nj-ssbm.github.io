@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794634283929,
+  "lastUpdated": 1794635183949,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -359,6 +359,22 @@
       "tournaments": []
     },
     {
+      "tag": "UrethraFranklin",
+      "code": "DICK#254",
+      "rank": "Silver 2",
+      "elo": 1305.578144892571,
+      "wins": 8,
+      "losses": 6,
+      "character": "SHEIK",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1267.3862516801642,
+      "eloDelta": 38.19189321240674,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -372,22 +388,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
-      "tournaments": []
-    },
-    {
-      "tag": "UrethraFranklin",
-      "code": "DICK#254",
-      "rank": "Silver 2",
-      "elo": 1271.5618942743554,
-      "wins": 7,
-      "losses": 6,
-      "character": "SHEIK",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1267.3862516801642,
-      "eloDelta": 4.175642594191231,
-      "rankChange": "up",
-      "location": null,
       "tournaments": []
     },
     {
