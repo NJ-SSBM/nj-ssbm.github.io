@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794684813521,
+  "lastUpdated": 1794685715015,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -343,6 +343,22 @@
       "tournaments": []
     },
     {
+      "tag": "young linkj",
+      "code": "TUAH#67",
+      "rank": "Silver 3",
+      "elo": 1400.050275278459,
+      "wins": 13,
+      "losses": 2,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1240.0836458815616,
+      "eloDelta": 159.96662939689736,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "UrethraFranklin",
       "code": "DICK#254",
       "rank": "Silver 3",
@@ -355,22 +371,6 @@
       "yesterdayElo": 1380.752606333865,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "young linkj",
-      "code": "TUAH#67",
-      "rank": "Silver 3",
-      "elo": 1377.8692507483554,
-      "wins": 12,
-      "losses": 2,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1240.0836458815616,
-      "eloDelta": 137.78560486679385,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
