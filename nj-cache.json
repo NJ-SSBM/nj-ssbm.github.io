@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794628883931,
+  "lastUpdated": 1794629783929,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -138,15 +138,15 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 3",
-      "elo": 1990.3009291509325,
-      "wins": 93,
+      "elo": 1998.277362036132,
+      "wins": 94,
       "losses": 73,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1997.7030886526254,
-      "eloDelta": -7.40215950169295,
-      "rankChange": "down",
+      "eloDelta": 0.5742733835065792,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
