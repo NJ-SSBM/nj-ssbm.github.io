@@ -1,18 +1,34 @@
 {
-  "lastUpdated": 1794621683871,
+  "lastUpdated": 1794622583870,
   "playerRanks": [
     {
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2625.213584608424,
-      "wins": 200,
+      "elo": 2629.2608082025176,
+      "wins": 203,
       "losses": 50,
       "character": "PEACH",
       "secondary": "SHEIK",
       "tertiary": "FOX",
       "yesterdayElo": 2552.0609458701506,
-      "eloDelta": 73.15263873827325,
+      "eloDelta": 77.19986233236705,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "I Rigged Summit",
+      "code": "A#24",
+      "rank": "Grandmaster",
+      "elo": 2549.7123765569977,
+      "wins": 42,
+      "losses": 11,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2519.2101996375104,
+      "eloDelta": 30.502176919487283,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -35,22 +51,6 @@
         "rutgers",
         "otw"
       ]
-    },
-    {
-      "tag": "I Rigged Summit",
-      "code": "A#24",
-      "rank": "Grandmaster",
-      "elo": 2541.5577602612843,
-      "wins": 41,
-      "losses": 11,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2519.2101996375104,
-      "eloDelta": 22.347560623773916,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
     },
     {
       "tag": "404Cray",
