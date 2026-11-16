@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794861389834,
+  "lastUpdated": 1794862289789,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -21,14 +21,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2613.2563319740666,
-      "wins": 216,
+      "elo": 2625.140825762005,
+      "wins": 219,
       "losses": 53,
       "character": "PEACH",
       "secondary": "SHEIK",
       "tertiary": "FOX",
       "yesterdayElo": 2593.4499579277635,
-      "eloDelta": 19.806374046303063,
+      "eloDelta": 31.690867834241544,
       "rankChange": "up",
       "location": "north",
       "tournaments": []
