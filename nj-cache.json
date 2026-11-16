@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794855089654,
+  "lastUpdated": 1794855989669,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -199,22 +199,6 @@
       "tournaments": []
     },
     {
-      "tag": "theinstituter",
-      "code": "BEL#294",
-      "rank": "Platinum 2",
-      "elo": 1894.4249368910494,
-      "wins": 95,
-      "losses": 90,
-      "character": "CAPTAIN_FALCON",
-      "secondary": "GANONDORF",
-      "tertiary": "FALCO",
-      "yesterdayElo": 1792.854267681696,
-      "eloDelta": 101.57066920935335,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 2",
@@ -227,6 +211,22 @@
       "yesterdayElo": 1900.6587440113344,
       "eloDelta": -12.307500825887928,
       "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "theinstituter",
+      "code": "BEL#294",
+      "rank": "Platinum 2",
+      "elo": 1882.248683646167,
+      "wins": 95,
+      "losses": 91,
+      "character": "CAPTAIN_FALCON",
+      "secondary": "GANONDORF",
+      "tertiary": "FALCO",
+      "yesterdayElo": 1792.854267681696,
+      "eloDelta": 89.39441596447091,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
