@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794846515094,
+  "lastUpdated": 1794850116191,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -260,6 +260,21 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "north",
+      "tournaments": []
+    },
+    {
+      "tag": "Ms. 4nthrope",
+      "code": "ENVY#3",
+      "rank": "Gold 2",
+      "elo": 1636.0016032498104,
+      "wins": 20,
+      "losses": 26,
+      "character": "FOX",
+      "secondary": "SHEIK",
+      "tertiary": "",
+      "rankChange": "new",
+      "eloDelta": 0,
+      "location": null,
       "tournaments": []
     },
     {
