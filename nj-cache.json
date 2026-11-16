@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794850116191,
+  "lastUpdated": 1794851016260,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -272,8 +272,8 @@
       "character": "FOX",
       "secondary": "SHEIK",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
