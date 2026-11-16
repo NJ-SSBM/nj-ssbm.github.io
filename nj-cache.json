@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794857789708,
+  "lastUpdated": 1794859589764,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -247,6 +247,21 @@
       "tournaments": []
     },
     {
+      "tag": "I Rigged Summit",
+      "code": "HAWK#2",
+      "rank": "Platinum 1",
+      "elo": 1826.4131941692995,
+      "wins": 5,
+      "losses": 1,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "eloDelta": 0,
+      "rankChange": "new",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "The Milkman",
       "code": "MILK#228",
       "rank": "Platinum 1",
@@ -260,21 +275,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "north",
-      "tournaments": []
-    },
-    {
-      "tag": "I Rigged Summit",
-      "code": "HAWK#2",
-      "rank": "Gold 3",
-      "elo": 1691.2459217974624,
-      "wins": 4,
-      "losses": 1,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "eloDelta": 0,
-      "rankChange": "new",
-      "location": null,
       "tournaments": []
     },
     {
