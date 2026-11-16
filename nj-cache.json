@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794841040722,
+  "lastUpdated": 1794842842952,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -215,6 +215,22 @@
       "tournaments": []
     },
     {
+      "tag": "theinstituter",
+      "code": "BEL#294",
+      "rank": "Platinum 2",
+      "elo": 1843.9465627039442,
+      "wins": 89,
+      "losses": 88,
+      "character": "CAPTAIN_FALCON",
+      "secondary": "GANONDORF",
+      "tertiary": "FALCO",
+      "yesterdayElo": 1792.854267681696,
+      "eloDelta": 51.09229502224821,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Arzada",
       "code": "ZADA#734",
       "rank": "Platinum 1",
@@ -227,22 +243,6 @@
       "yesterdayElo": 1828.9568368804987,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "theinstituter",
-      "code": "BEL#294",
-      "rank": "Platinum 1",
-      "elo": 1810.1971533860851,
-      "wins": 87,
-      "losses": 88,
-      "character": "CAPTAIN_FALCON",
-      "secondary": "GANONDORF",
-      "tertiary": "FALCO",
-      "yesterdayElo": 1792.854267681696,
-      "eloDelta": 17.34288570438912,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
