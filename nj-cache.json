@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794868589883,
+  "lastUpdated": 1794869489894,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -135,6 +135,21 @@
       "tournaments": []
     },
     {
+      "tag": "I Rigged Summit",
+      "code": "HAWK#2",
+      "rank": "Diamond 1",
+      "elo": 2032.818848206141,
+      "wins": 8,
+      "losses": 1,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "eloDelta": 0,
+      "rankChange": "new",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "beer climbers",
       "code": "JAFA#300",
       "rank": "Platinum 3",
@@ -179,21 +194,6 @@
       "yesterdayElo": 1939.5160441614448,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "I Rigged Summit",
-      "code": "HAWK#2",
-      "rank": "Platinum 2",
-      "elo": 1917.3836938090772,
-      "wins": 6,
-      "losses": 1,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "eloDelta": 0,
-      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
