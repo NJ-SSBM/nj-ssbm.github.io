@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794863189831,
+  "lastUpdated": 1794868589883,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -183,6 +183,21 @@
       "tournaments": []
     },
     {
+      "tag": "I Rigged Summit",
+      "code": "HAWK#2",
+      "rank": "Platinum 2",
+      "elo": 1917.3836938090772,
+      "wins": 6,
+      "losses": 1,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "eloDelta": 0,
+      "rankChange": "new",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
@@ -244,21 +259,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "I Rigged Summit",
-      "code": "HAWK#2",
-      "rank": "Platinum 1",
-      "elo": 1826.4131941692995,
-      "wins": 5,
-      "losses": 1,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "eloDelta": 0,
-      "rankChange": "new",
-      "location": null,
       "tournaments": []
     },
     {
@@ -437,22 +437,6 @@
       "tournaments": []
     },
     {
-      "tag": "mani",
-      "code": "TUAH#67",
-      "rank": "Silver 2",
-      "elo": 1300.2544408475046,
-      "wins": 22,
-      "losses": 7,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1300.2544408475046,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -466,6 +450,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
+      "tournaments": []
+    },
+    {
+      "tag": "mani",
+      "code": "TUAH#67",
+      "rank": "Silver 2",
+      "elo": 1259.817629878076,
+      "wins": 22,
+      "losses": 9,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1300.2544408475046,
+      "eloDelta": -40.43681096942851,
+      "rankChange": "down",
+      "location": null,
       "tournaments": []
     },
     {
