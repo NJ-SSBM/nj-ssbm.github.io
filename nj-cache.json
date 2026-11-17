@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794951128157,
+  "lastUpdated": 1794959479094,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -281,15 +281,15 @@
     {
       "tag": "SWAGHAVER69",
       "code": "HLWY#908",
-      "rank": "Gold 2",
-      "elo": 1638.1162552201904,
-      "wins": 13,
+      "rank": "Gold 3",
+      "elo": 1667.0705178356716,
+      "wins": 14,
       "losses": 7,
       "character": "SHEIK",
       "secondary": "FOX",
       "tertiary": "GANONDORF",
       "yesterdayElo": 1604.7379011764526,
-      "eloDelta": 33.37835404373777,
+      "eloDelta": 62.33261665921896,
       "rankChange": "up",
       "location": null,
       "tournaments": []
