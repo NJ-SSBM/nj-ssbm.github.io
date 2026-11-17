@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794907290444,
+  "lastUpdated": 1794951128157,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -279,6 +279,22 @@
       "tournaments": []
     },
     {
+      "tag": "SWAGHAVER69",
+      "code": "HLWY#908",
+      "rank": "Gold 2",
+      "elo": 1638.1162552201904,
+      "wins": 13,
+      "losses": 7,
+      "character": "SHEIK",
+      "secondary": "FOX",
+      "tertiary": "GANONDORF",
+      "yesterdayElo": 1604.7379011764526,
+      "eloDelta": 33.37835404373777,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "HUZZAH!",
       "code": "STEVE#0",
       "rank": "Gold 2",
@@ -321,22 +337,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1607.4771927197735,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "SWAGHAVER69",
-      "code": "HLWY#908",
-      "rank": "Gold 2",
-      "elo": 1604.7379011764526,
-      "wins": 12,
-      "losses": 7,
-      "character": "SHEIK",
-      "secondary": "FOX",
-      "tertiary": "LUIGI",
-      "yesterdayElo": 1604.7379011764526,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
