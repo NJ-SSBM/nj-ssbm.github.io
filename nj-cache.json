@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794876690055,
+  "lastUpdated": 1794887490181,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -119,6 +119,21 @@
       "tournaments": []
     },
     {
+      "tag": "I Rigged Summit",
+      "code": "HAWK#2",
+      "rank": "Diamond 1",
+      "elo": 2064.1999081324493,
+      "wins": 9,
+      "losses": 3,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "eloDelta": 0,
+      "rankChange": "new",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "PlzEngIntrnship",
       "code": "DESO#590",
       "rank": "Diamond 1",
@@ -132,21 +147,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
-      "tournaments": []
-    },
-    {
-      "tag": "I Rigged Summit",
-      "code": "HAWK#2",
-      "rank": "Diamond 1",
-      "elo": 2015.221068211623,
-      "wins": 8,
-      "losses": 2,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "eloDelta": 0,
-      "rankChange": "new",
-      "location": null,
       "tournaments": []
     },
     {
