@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794872189942,
+  "lastUpdated": 1794874889973,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -456,14 +456,14 @@
       "tag": "mani",
       "code": "TUAH#67",
       "rank": "Silver 2",
-      "elo": 1259.817629878076,
+      "elo": 1233.3805476020193,
       "wins": 22,
-      "losses": 9,
+      "losses": 10,
       "character": "FOX",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1300.2544408475046,
-      "eloDelta": -40.43681096942851,
+      "eloDelta": -66.8738932454853,
       "rankChange": "down",
       "location": null,
       "tournaments": []
