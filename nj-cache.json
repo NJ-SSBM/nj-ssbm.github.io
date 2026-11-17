@@ -1,22 +1,6 @@
 {
-  "lastUpdated": 1794874889973,
+  "lastUpdated": 1794876690055,
   "playerRanks": [
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2642.3843259249115,
-      "wins": 221,
-      "losses": 53,
-      "character": "PEACH",
-      "secondary": "SHEIK",
-      "tertiary": "FOX",
-      "yesterdayElo": 2593.4499579277635,
-      "eloDelta": 48.934367997148,
-      "rankChange": "up",
-      "location": "north",
-      "tournaments": []
-    },
     {
       "tag": "Jude :3",
       "code": "GREC#116",
@@ -31,6 +15,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
+      "tournaments": []
+    },
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2613.155455737441,
+      "wins": 222,
+      "losses": 54,
+      "character": "PEACH",
+      "secondary": "SHEIK",
+      "tertiary": "FOX",
+      "yesterdayElo": 2593.4499579277635,
+      "eloDelta": 19.70549780967758,
+      "rankChange": "up",
+      "location": "north",
       "tournaments": []
     },
     {
