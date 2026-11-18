@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795025468882,
+  "lastUpdated": 1795036018709,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -231,22 +231,6 @@
       "tournaments": []
     },
     {
-      "tag": "JigglingMyPuffs",
-      "code": "SSL#398",
-      "rank": "Platinum 2",
-      "elo": 1860.7064562729333,
-      "wins": 103,
-      "losses": 88,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1837.6958731903924,
-      "eloDelta": 23.01058308254096,
-      "rankChange": "up",
-      "location": "north",
-      "tournaments": []
-    },
-    {
       "tag": "Arzada",
       "code": "ZADA#734",
       "rank": "Platinum 1",
@@ -260,6 +244,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "ocean",
+      "tournaments": []
+    },
+    {
+      "tag": "JigglingMyPuffs",
+      "code": "SSL#398",
+      "rank": "Platinum 1",
+      "elo": 1823.9144715525608,
+      "wins": 105,
+      "losses": 94,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1837.6958731903924,
+      "eloDelta": -13.78140163783155,
+      "rankChange": "down",
+      "location": "north",
       "tournaments": []
     },
     {
