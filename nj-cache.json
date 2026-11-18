@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794965779171,
+  "lastUpdated": 1794972079318,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -346,15 +346,15 @@
       "tag": "asgorefan2010",
       "code": "ABOV#540",
       "rank": "Gold 1",
-      "elo": 1464.6480968774695,
+      "elo": 1452.4448854031778,
       "wins": 36,
-      "losses": 37,
+      "losses": 38,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1464.6480968774695,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -12.20321147429172,
+      "rankChange": "down",
       "location": "north",
       "tournaments": []
     },
