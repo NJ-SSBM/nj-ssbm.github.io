@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794964879198,
+  "lastUpdated": 1794965779171,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -15,22 +15,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
-      "tournaments": []
-    },
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2590.6706463729247,
-      "wins": 222,
-      "losses": 55,
-      "character": "PEACH",
-      "secondary": "SHEIK",
-      "tertiary": "FOX",
-      "yesterdayElo": 2590.6706463729247,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "north",
       "tournaments": []
     },
     {
@@ -50,18 +34,34 @@
       "tournaments": []
     },
     {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2571.15436915178,
+      "wins": 224,
+      "losses": 56,
+      "character": "PEACH",
+      "secondary": "SHEIK",
+      "tertiary": "FOX",
+      "yesterdayElo": 2590.6706463729247,
+      "eloDelta": -19.51627722114472,
+      "rankChange": "down",
+      "location": "north",
+      "tournaments": []
+    },
+    {
       "tag": "kdog",
       "code": "KDOG#261",
       "rank": "Grandmaster",
-      "elo": 2547.6101020199567,
-      "wins": 30,
+      "elo": 2558.7325546075845,
+      "wins": 31,
       "losses": 7,
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2547.6101020199567,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 11.122452587627777,
+      "rankChange": "up",
       "location": null,
       "tournaments": [
         "rutgers",
