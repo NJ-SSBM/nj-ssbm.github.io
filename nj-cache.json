@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794959479094,
+  "lastUpdated": 1794960379114,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -215,22 +215,6 @@
       "tournaments": []
     },
     {
-      "tag": "JigglingMyPuffs",
-      "code": "SSL#398",
-      "rank": "Platinum 2",
-      "elo": 1891.2914363013847,
-      "wins": 98,
-      "losses": 82,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1891.2914363013847,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "north",
-      "tournaments": []
-    },
-    {
       "tag": "theinstituter",
       "code": "BEL#294",
       "rank": "Platinum 2",
@@ -244,6 +228,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "JigglingMyPuffs",
+      "code": "SSL#398",
+      "rank": "Platinum 2",
+      "elo": 1867.3410561252308,
+      "wins": 98,
+      "losses": 83,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1891.2914363013847,
+      "eloDelta": -23.950380176153885,
+      "rankChange": "down",
+      "location": "north",
       "tournaments": []
     },
     {
