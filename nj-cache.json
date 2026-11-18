@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795015279969,
+  "lastUpdated": 1795017080129,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -18,6 +18,22 @@
       "tournaments": []
     },
     {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2578.719977302392,
+      "wins": 225,
+      "losses": 56,
+      "character": "PEACH",
+      "secondary": "SHEIK",
+      "tertiary": "FOX",
+      "yesterdayElo": 2571.15436915178,
+      "eloDelta": 7.565608150612206,
+      "rankChange": "up",
+      "location": "north",
+      "tournaments": []
+    },
+    {
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
@@ -31,22 +47,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2571.15436915178,
-      "wins": 224,
-      "losses": 56,
-      "character": "PEACH",
-      "secondary": "SHEIK",
-      "tertiary": "FOX",
-      "yesterdayElo": 2571.15436915178,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "north",
       "tournaments": []
     },
     {
