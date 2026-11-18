@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1794972079318,
+  "lastUpdated": 1794979279434,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -137,16 +137,16 @@
     {
       "tag": "PlzEngIntrnship",
       "code": "DESO#590",
-      "rank": "Diamond 1",
-      "elo": 2050.946636350047,
-      "wins": 53,
+      "rank": "Diamond 2",
+      "elo": 2074.464812011638,
+      "wins": 54,
       "losses": 62,
       "character": "YOSHI",
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 2050.946636350047,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 23.518175661591158,
+      "rankChange": "up",
       "location": "ocean",
       "tournaments": []
     },
