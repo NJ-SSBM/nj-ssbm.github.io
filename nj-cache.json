@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795125130374,
+  "lastUpdated": 1795129630924,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -137,16 +137,16 @@
     {
       "tag": "I Rigged Summit",
       "code": "HAWK#2",
-      "rank": "Diamond 3",
-      "elo": 2173.054616246571,
-      "wins": 11,
+      "rank": "Master 1",
+      "elo": 2232.296576094644,
+      "wins": 12,
       "losses": 4,
       "character": "ICE_CLIMBERS",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2173.054616246571,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 59.24195984807284,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
