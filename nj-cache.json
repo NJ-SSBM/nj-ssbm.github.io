@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795121378009,
+  "lastUpdated": 1795122278030,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -439,22 +439,6 @@
       "tournaments": []
     },
     {
-      "tag": "dangeris hack3r",
-      "code": "TUAH#67",
-      "rank": "Silver 2",
-      "elo": 1285.131691462273,
-      "wins": 24,
-      "losses": 10,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1233.3805476020193,
-      "eloDelta": 51.751143860253705,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -468,6 +452,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
+      "tournaments": []
+    },
+    {
+      "tag": "dangeris hack3r",
+      "code": "TUAH#67",
+      "rank": "Silver 2",
+      "elo": 1275.6381661860557,
+      "wins": 25,
+      "losses": 11,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1233.3805476020193,
+      "eloDelta": 42.257618584036436,
+      "rankChange": "up",
+      "location": null,
       "tournaments": []
     },
     {
