@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795149431324,
+  "lastUpdated": 1795150331386,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -50,6 +50,24 @@
       "tournaments": []
     },
     {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2559.4312859121706,
+      "wins": 119,
+      "losses": 30,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2526.7741271232762,
+      "eloDelta": 32.65715878889432,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
+    {
       "tag": "kdog",
       "code": "KDOG#261",
       "rank": "Grandmaster",
@@ -65,24 +83,6 @@
       "location": null,
       "tournaments": [
         "rutgers",
-        "otw"
-      ]
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2540.1207752431837,
-      "wins": 118,
-      "losses": 30,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 13.346648119907513,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": [
         "otw"
       ]
     },
@@ -138,14 +138,14 @@
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Grandmaster",
-      "elo": 2218.499818810471,
-      "wins": 89,
+      "elo": 2236.7919163953966,
+      "wins": 91,
       "losses": 83,
       "character": "MARTH",
       "secondary": "YOSHI",
       "tertiary": "",
       "yesterdayElo": 2277.2683162277717,
-      "eloDelta": -58.76849741730075,
+      "eloDelta": -40.47639983237514,
       "rankChange": "down",
       "location": "ocean",
       "tournaments": []
