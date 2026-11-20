@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795157531464,
+  "lastUpdated": 1795158431449,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -442,31 +442,15 @@
       "tag": "nizwiz",
       "code": "NIZI#416",
       "rank": "Silver 2",
-      "elo": 1254.8272222426624,
-      "wins": 29,
+      "elo": 1268.5032202635964,
+      "wins": 30,
       "losses": 29,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1324.9910715144244,
-      "eloDelta": -70.16384927176205,
+      "eloDelta": -56.487851250828044,
       "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Truekaiju",
-      "code": "TRUE#211",
-      "rank": "Silver 2",
-      "elo": 1239.8102341241745,
-      "wins": 12,
-      "losses": 14,
-      "character": "FOX",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1215.191648697467,
-      "eloDelta": 24.61858542670757,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
@@ -499,6 +483,22 @@
       "yesterdayElo": 1230.3182470395905,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "Truekaiju",
+      "code": "TRUE#211",
+      "rank": "Silver 2",
+      "elo": 1217.7098155050799,
+      "wins": 12,
+      "losses": 16,
+      "character": "FOX",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1215.191648697467,
+      "eloDelta": 2.5181668076129426,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     }
