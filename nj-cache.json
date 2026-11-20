@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795152131382,
+  "lastUpdated": 1795153031386,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -37,14 +37,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2578.1310479335243,
-      "wins": 123,
+      "elo": 2592.6529211855295,
+      "wins": 125,
       "losses": 30,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 51.356920810248084,
+      "eloDelta": 65.87879406225329,
       "rankChange": "up",
       "location": null,
       "tournaments": [
@@ -106,14 +106,14 @@
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Grandmaster",
-      "elo": 2250.858632776037,
-      "wins": 93,
+      "elo": 2256.946911673722,
+      "wins": 94,
       "losses": 83,
       "character": "MARTH",
       "secondary": "YOSHI",
       "tertiary": "",
       "yesterdayElo": 2277.2683162277717,
-      "eloDelta": -26.40968345173451,
+      "eloDelta": -20.321404554049877,
       "rankChange": "down",
       "location": "ocean",
       "tournaments": []
@@ -391,6 +391,22 @@
       "tournaments": []
     },
     {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 3",
+      "elo": 1327.6242655607723,
+      "wins": 27,
+      "losses": 24,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1324.9910715144244,
+      "eloDelta": 2.633194046347853,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 3",
@@ -419,22 +435,6 @@
       "yesterdayElo": 1315.6681633288463,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1284.1659503574383,
-      "wins": 25,
-      "losses": 24,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1324.9910715144244,
-      "eloDelta": -40.82512115698614,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
