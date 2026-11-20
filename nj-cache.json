@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795201632087,
+  "lastUpdated": 1795206132122,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -103,6 +103,22 @@
       "tournaments": []
     },
     {
+      "tag": "I Rigged Summit",
+      "code": "HAWK#2",
+      "rank": "Master 2",
+      "elo": 2291.907896316641,
+      "wins": 15,
+      "losses": 5,
+      "character": "ICE_CLIMBERS",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2237.7427845405637,
+      "eloDelta": 54.16511177607754,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Master 1",
@@ -129,22 +145,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2239.6380498165036,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "I Rigged Summit",
-      "code": "HAWK#2",
-      "rank": "Master 1",
-      "elo": 2237.7427845405637,
-      "wins": 13,
-      "losses": 5,
-      "character": "ICE_CLIMBERS",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2237.7427845405637,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
