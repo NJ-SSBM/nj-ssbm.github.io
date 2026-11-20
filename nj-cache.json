@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795153031386,
+  "lastUpdated": 1795153931423,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -18,6 +18,24 @@
       "tournaments": []
     },
     {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2604.999069162033,
+      "wins": 127,
+      "losses": 30,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2526.7741271232762,
+      "eloDelta": 78.22494203875658,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
+    {
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
@@ -32,24 +50,6 @@
       "rankChange": "up",
       "location": "north",
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2592.6529211855295,
-      "wins": 125,
-      "losses": 30,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 65.87879406225329,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "I Rigged Summit",
@@ -394,14 +394,14 @@
       "tag": "nizwiz",
       "code": "NIZI#416",
       "rank": "Silver 3",
-      "elo": 1327.6242655607723,
-      "wins": 27,
-      "losses": 24,
+      "elo": 1330.0509481590664,
+      "wins": 28,
+      "losses": 25,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1324.9910715144244,
-      "eloDelta": 2.633194046347853,
+      "eloDelta": 5.059876644641918,
       "rankChange": "up",
       "location": null,
       "tournaments": []
