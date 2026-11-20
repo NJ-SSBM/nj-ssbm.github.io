@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795153931423,
+  "lastUpdated": 1795154831423,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -21,14 +21,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2604.999069162033,
-      "wins": 127,
+      "elo": 2625.7203645596587,
+      "wins": 129,
       "losses": 30,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 78.22494203875658,
+      "eloDelta": 98.94623743638249,
       "rankChange": "up",
       "location": null,
       "tournaments": [
@@ -391,22 +391,6 @@
       "tournaments": []
     },
     {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 3",
-      "elo": 1330.0509481590664,
-      "wins": 28,
-      "losses": 25,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1324.9910715144244,
-      "eloDelta": 5.059876644641918,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 3",
@@ -435,6 +419,22 @@
       "yesterdayElo": 1315.6681633288463,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1302.2736107235635,
+      "wins": 28,
+      "losses": 26,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1324.9910715144244,
+      "eloDelta": -22.71746079086097,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
