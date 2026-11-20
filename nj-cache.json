@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795150331386,
+  "lastUpdated": 1795151231335,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -53,14 +53,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2559.4312859121706,
-      "wins": 119,
+      "elo": 2564.291465856425,
+      "wins": 120,
       "losses": 30,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 32.65715878889432,
+      "eloDelta": 37.51733873314879,
       "rankChange": "up",
       "location": null,
       "tournaments": [
@@ -103,6 +103,22 @@
       "tournaments": []
     },
     {
+      "tag": "HireEngInternEE",
+      "code": "DESO#590",
+      "rank": "Grandmaster",
+      "elo": 2242.9695961333714,
+      "wins": 92,
+      "losses": 83,
+      "character": "MARTH",
+      "secondary": "YOSHI",
+      "tertiary": "",
+      "yesterdayElo": 2277.2683162277717,
+      "eloDelta": -34.29872009440032,
+      "rankChange": "down",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "Anchor",
       "code": "ANCHOR#0",
       "rank": "Master 1",
@@ -135,19 +151,19 @@
       "tournaments": []
     },
     {
-      "tag": "HireEngInternEE",
-      "code": "DESO#590",
-      "rank": "Grandmaster",
-      "elo": 2236.7919163953966,
-      "wins": 91,
-      "losses": 83,
+      "tag": "DARK ENOUGH",
+      "code": "NJ#473",
+      "rank": "Platinum 3",
+      "elo": 1960.908787934197,
+      "wins": 30,
+      "losses": 34,
       "character": "MARTH",
-      "secondary": "YOSHI",
+      "secondary": "FOX",
       "tertiary": "",
-      "yesterdayElo": 2277.2683162277717,
-      "eloDelta": -40.47639983237514,
-      "rankChange": "down",
-      "location": "ocean",
+      "yesterdayElo": 1939.5160441614448,
+      "eloDelta": 21.392743772752283,
+      "rankChange": "up",
+      "location": null,
       "tournaments": []
     },
     {
@@ -179,22 +195,6 @@
       "yesterdayElo": 1959.9514924413822,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "DARK ENOUGH",
-      "code": "NJ#473",
-      "rank": "Platinum 3",
-      "elo": 1943.5631787828797,
-      "wins": 29,
-      "losses": 34,
-      "character": "MARTH",
-      "secondary": "FOX",
-      "tertiary": "",
-      "yesterdayElo": 1939.5160441614448,
-      "eloDelta": 4.047134621434907,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
