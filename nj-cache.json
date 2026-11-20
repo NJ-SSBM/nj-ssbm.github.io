@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795155731403,
+  "lastUpdated": 1795156631409,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -423,22 +423,6 @@
       "tournaments": []
     },
     {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1304.3600039451444,
-      "wins": 29,
-      "losses": 27,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1324.9910715144244,
-      "eloDelta": -20.63106756928005,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -452,6 +436,38 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
+      "tournaments": []
+    },
+    {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1278.126696546786,
+      "wins": 29,
+      "losses": 28,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1324.9910715144244,
+      "eloDelta": -46.86437496763847,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "Truekaiju",
+      "code": "TRUE#211",
+      "rank": "Silver 2",
+      "elo": 1258.9284877804655,
+      "wins": 11,
+      "losses": 12,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1215.191648697467,
+      "eloDelta": 43.736839082998586,
+      "rankChange": "up",
+      "location": null,
       "tournaments": []
     },
     {
@@ -483,22 +499,6 @@
       "yesterdayElo": 1230.3182470395905,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Truekaiju",
-      "code": "TRUE#211",
-      "rank": "Silver 2",
-      "elo": 1196.0361893267984,
-      "wins": 9,
-      "losses": 12,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1215.191648697467,
-      "eloDelta": -19.155459370668495,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     }
