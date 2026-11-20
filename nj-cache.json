@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795166531474,
+  "lastUpdated": 1795189931973,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -250,15 +250,15 @@
       "tag": "JigglingMyPuffs",
       "code": "SSL#398",
       "rank": "Platinum 1",
-      "elo": 1795.0620450231315,
+      "elo": 1791.1681991205169,
       "wins": 105,
-      "losses": 96,
+      "losses": 97,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1795.0620450231315,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -3.8938459026146575,
+      "rankChange": "down",
       "location": "north",
       "tournaments": []
     },
