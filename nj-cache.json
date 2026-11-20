@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795159331435,
+  "lastUpdated": 1795160231419,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -455,6 +455,22 @@
       "tournaments": []
     },
     {
+      "tag": "Truekaiju",
+      "code": "TRUE#211",
+      "rank": "Silver 2",
+      "elo": 1249.7367119601222,
+      "wins": 14,
+      "losses": 17,
+      "character": "FOX",
+      "secondary": "MARTH",
+      "tertiary": "",
+      "yesterdayElo": 1215.191648697467,
+      "eloDelta": 34.545063262655276,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "KrmaL Fan1827",
       "code": "TUAH#67",
       "rank": "Silver 2",
@@ -483,22 +499,6 @@
       "yesterdayElo": 1230.3182470395905,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Truekaiju",
-      "code": "TRUE#211",
-      "rank": "Silver 2",
-      "elo": 1225.8479110603719,
-      "wins": 13,
-      "losses": 17,
-      "character": "FOX",
-      "secondary": "MARTH",
-      "tertiary": "",
-      "yesterdayElo": 1215.191648697467,
-      "eloDelta": 10.656262362904954,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     }
