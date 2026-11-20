@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795138631132,
+  "lastUpdated": 1795139531164,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -218,14 +218,14 @@
       "tag": "ernie",
       "code": "BLUE#851",
       "rank": "Platinum 2",
-      "elo": 1881.4006916002552,
+      "elo": 1874.5567180432997,
       "wins": 94,
-      "losses": 100,
+      "losses": 101,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1902.7801343078977,
-      "eloDelta": -21.37944270764251,
+      "eloDelta": -28.223416264597972,
       "rankChange": "down",
       "location": "north",
       "tournaments": []
