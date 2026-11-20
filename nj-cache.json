@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795147631313,
+  "lastUpdated": 1795148531332,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -72,15 +72,15 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2546.0171552087813,
+      "elo": 2526.2878646793715,
       "wins": 116,
-      "losses": 29,
+      "losses": 30,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 19.243028085505102,
-      "rankChange": "up",
+      "eloDelta": -0.48626244390470674,
+      "rankChange": "none",
       "location": null,
       "tournaments": [
         "otw"
@@ -106,14 +106,14 @@
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Grandmaster",
-      "elo": 2261.4746485308706,
+      "elo": 2239.6522899096863,
       "wins": 89,
-      "losses": 79,
+      "losses": 81,
       "character": "MARTH",
       "secondary": "YOSHI",
       "tertiary": "",
       "yesterdayElo": 2277.2683162277717,
-      "eloDelta": -15.793667696901139,
+      "eloDelta": -37.61602631808546,
       "rankChange": "down",
       "location": "ocean",
       "tournaments": []
