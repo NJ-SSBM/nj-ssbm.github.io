@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795151231335,
+  "lastUpdated": 1795152131382,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -34,6 +34,24 @@
       "tournaments": []
     },
     {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2578.1310479335243,
+      "wins": 123,
+      "losses": 30,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2526.7741271232762,
+      "eloDelta": 51.356920810248084,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
+    {
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
@@ -48,24 +66,6 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2564.291465856425,
-      "wins": 120,
-      "losses": 30,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2526.7741271232762,
-      "eloDelta": 37.51733873314879,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "kdog",
@@ -106,14 +106,14 @@
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Grandmaster",
-      "elo": 2242.9695961333714,
-      "wins": 92,
+      "elo": 2250.858632776037,
+      "wins": 93,
       "losses": 83,
       "character": "MARTH",
       "secondary": "YOSHI",
       "tertiary": "",
       "yesterdayElo": 2277.2683162277717,
-      "eloDelta": -34.29872009440032,
+      "eloDelta": -26.40968345173451,
       "rankChange": "down",
       "location": "ocean",
       "tournaments": []
@@ -154,14 +154,14 @@
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Platinum 3",
-      "elo": 1960.908787934197,
-      "wins": 30,
+      "elo": 1982.408395861865,
+      "wins": 31,
       "losses": 34,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1939.5160441614448,
-      "eloDelta": 21.392743772752283,
+      "eloDelta": 42.89235170042025,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -391,22 +391,6 @@
       "tournaments": []
     },
     {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 3",
-      "elo": 1324.9910715144244,
-      "wins": 25,
-      "losses": 22,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1324.9910715144244,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 3",
@@ -435,6 +419,22 @@
       "yesterdayElo": 1315.6681633288463,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1284.1659503574383,
+      "wins": 25,
+      "losses": 24,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1324.9910715144244,
+      "eloDelta": -40.82512115698614,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
