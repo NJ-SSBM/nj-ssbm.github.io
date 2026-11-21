@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795301533563,
+  "lastUpdated": 1795302433555,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -153,15 +153,15 @@
     {
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
-      "rank": "Platinum 3",
-      "elo": 2002.1111004786967,
-      "wins": 32,
+      "rank": "Diamond 1",
+      "elo": 2027.201752456327,
+      "wins": 33,
       "losses": 34,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 1982.408395861865,
-      "eloDelta": 19.702704616831625,
+      "eloDelta": 44.79335659446201,
       "rankChange": "up",
       "location": null,
       "tournaments": []
@@ -279,6 +279,22 @@
       "tournaments": []
     },
     {
+      "tag": "Claw",
+      "code": "CLAW#615",
+      "rank": "Gold 3",
+      "elo": 1694.9254237377286,
+      "wins": 5,
+      "losses": 2,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1607.4771927197735,
+      "eloDelta": 87.4482310179551,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "HUZZAH!",
       "code": "STEVE#0",
       "rank": "Gold 2",
@@ -323,22 +339,6 @@
       "yesterdayElo": 1616.3462598219958,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Claw",
-      "code": "CLAW#615",
-      "rank": "Gold 2",
-      "elo": 1584.595932818002,
-      "wins": 4,
-      "losses": 2,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1607.4771927197735,
-      "eloDelta": -22.8812599017715,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
