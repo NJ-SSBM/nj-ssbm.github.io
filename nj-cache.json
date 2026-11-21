@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795296134635,
+  "lastUpdated": 1795296996639,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -115,21 +115,6 @@
       "yesterdayElo": 2446.7285373166046,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Mr. Grabs",
-      "code": "STAV#838",
-      "rank": "Grandmaster",
-      "elo": 2329.6826817499523,
-      "wins": 15,
-      "losses": 8,
-      "character": "DR_MARIO",
-      "secondary": "",
-      "tertiary": "",
-      "rankChange": "new",
-      "eloDelta": 0,
       "location": null,
       "tournaments": []
     },
