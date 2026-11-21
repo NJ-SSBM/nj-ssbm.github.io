@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795304234614,
+  "lastUpdated": 1795305134619,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -352,8 +352,8 @@
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
-      "rankChange": "new",
       "eloDelta": 0,
+      "rankChange": "new",
       "location": null,
       "tournaments": []
     },
