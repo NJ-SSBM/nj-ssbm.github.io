@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795222332461,
+  "lastUpdated": 1795233132609,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -247,6 +247,22 @@
       "tournaments": []
     },
     {
+      "tag": "JigglingMyPuffs",
+      "code": "SSL#398",
+      "rank": "Platinum 1",
+      "elo": 1775.7239722334252,
+      "wins": 106,
+      "losses": 99,
+      "character": "JIGGLYPUFF",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1795.0620450231315,
+      "eloDelta": -19.338072789706303,
+      "rankChange": "down",
+      "location": "north",
+      "tournaments": []
+    },
+    {
       "tag": "The Milkman",
       "code": "MILK#228",
       "rank": "Platinum 1",
@@ -259,22 +275,6 @@
       "yesterdayElo": 1768.6219688970773,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": "north",
-      "tournaments": []
-    },
-    {
-      "tag": "JigglingMyPuffs",
-      "code": "SSL#398",
-      "rank": "Platinum 1",
-      "elo": 1761.4665613844486,
-      "wins": 105,
-      "losses": 99,
-      "character": "JIGGLYPUFF",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1795.0620450231315,
-      "eloDelta": -33.595483638682936,
-      "rankChange": "down",
       "location": "north",
       "tournaments": []
     },
