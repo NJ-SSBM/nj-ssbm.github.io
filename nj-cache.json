@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795331234993,
+  "lastUpdated": 1795332135022,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -119,6 +119,22 @@
       "tournaments": []
     },
     {
+      "tag": "HireEngInternEE",
+      "code": "DESO#590",
+      "rank": "Master 1",
+      "elo": 2242.8982724132743,
+      "wins": 96,
+      "losses": 86,
+      "character": "MARTH",
+      "secondary": "YOSHI",
+      "tertiary": "",
+      "yesterdayElo": 2256.946911673722,
+      "eloDelta": -14.048639260447544,
+      "rankChange": "down",
+      "location": "ocean",
+      "tournaments": []
+    },
+    {
       "tag": "Anchor",
       "code": "ANCHOR#0",
       "rank": "Master 1",
@@ -132,22 +148,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "HireEngInternEE",
-      "code": "DESO#590",
-      "rank": "Master 1",
-      "elo": 2233.4923505893657,
-      "wins": 94,
-      "losses": 85,
-      "character": "MARTH",
-      "secondary": "YOSHI",
-      "tertiary": "",
-      "yesterdayElo": 2256.946911673722,
-      "eloDelta": -23.4545610843561,
-      "rankChange": "down",
-      "location": "ocean",
       "tournaments": []
     },
     {
@@ -486,7 +486,7 @@
       "tournaments": []
     },
     {
-      "tag": "zay (gay)",
+      "tag": "saRy nevr clear",
       "code": "TUAH#67",
       "rank": "Silver 2",
       "elo": 1236.716816279853,
