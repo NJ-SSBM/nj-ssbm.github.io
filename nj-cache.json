@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795459937008,
+  "lastUpdated": 1795460837030,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -266,15 +266,15 @@
       "tag": "The Milkman",
       "code": "MILK#228",
       "rank": "Platinum 1",
-      "elo": 1768.6219688970773,
-      "wins": 18,
-      "losses": 9,
+      "elo": 1758.0213529694552,
+      "wins": 19,
+      "losses": 10,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1768.6219688970773,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -10.60061592762213,
+      "rankChange": "down",
       "location": "north",
       "tournaments": []
     },
