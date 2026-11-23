@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795468937114,
+  "lastUpdated": 1795474337232,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -233,16 +233,16 @@
     {
       "tag": "Arzada",
       "code": "ZADA#734",
-      "rank": "Platinum 1",
-      "elo": 1828.9568368804987,
-      "wins": 10,
+      "rank": "Platinum 2",
+      "elo": 1860.972321062381,
+      "wins": 11,
       "losses": 11,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "SHEIK",
       "yesterdayElo": 1828.9568368804987,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 32.01548418188236,
+      "rankChange": "up",
       "location": "ocean",
       "tournaments": []
     },
