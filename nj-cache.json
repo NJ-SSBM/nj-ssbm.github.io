@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795468037079,
+  "lastUpdated": 1795468937114,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -21,14 +21,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2659.6121406959955,
-      "wins": 134,
+      "elo": 2660.909084451646,
+      "wins": 135,
       "losses": 30,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2634.4603218580587,
-      "eloDelta": 25.151818837936844,
+      "eloDelta": 26.448762593587162,
       "rankChange": "up",
       "location": null,
       "tournaments": [
