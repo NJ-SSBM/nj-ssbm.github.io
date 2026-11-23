@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795460837030,
+  "lastUpdated": 1795468037079,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -18,6 +18,24 @@
       "tournaments": []
     },
     {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2659.6121406959955,
+      "wins": 134,
+      "losses": 30,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2634.4603218580587,
+      "eloDelta": 25.151818837936844,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
+    {
       "tag": "Jude :3",
       "code": "GREC#116",
       "rank": "Grandmaster",
@@ -32,24 +50,6 @@
       "rankChange": "none",
       "location": "south",
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2634.4603218580587,
-      "wins": 131,
-      "losses": 30,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2634.4603218580587,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "I Rigged Summit",
