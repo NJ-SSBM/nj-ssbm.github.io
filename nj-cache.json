@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795459037065,
+  "lastUpdated": 1795459937008,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -295,6 +295,22 @@
       "tournaments": []
     },
     {
+      "tag": "Ms. 4nthrope",
+      "code": "ENVY#3",
+      "rank": "Gold 2",
+      "elo": 1628.0839795692505,
+      "wins": 21,
+      "losses": 28,
+      "character": "FOX",
+      "secondary": "SHEIK",
+      "tertiary": "",
+      "yesterdayElo": 1618.7357251826668,
+      "eloDelta": 9.348254386583676,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "HUZZAH!",
       "code": "STEVE#0",
       "rank": "Gold 2",
@@ -323,22 +339,6 @@
       "yesterdayElo": 1616.3462598219958,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "Ms. 4nthrope",
-      "code": "ENVY#3",
-      "rank": "Gold 2",
-      "elo": 1608.4523671581605,
-      "wins": 20,
-      "losses": 28,
-      "character": "FOX",
-      "secondary": "SHEIK",
-      "tertiary": "",
-      "yesterdayElo": 1618.7357251826668,
-      "eloDelta": -10.283358024506242,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
