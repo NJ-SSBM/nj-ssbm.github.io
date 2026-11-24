@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795488737435,
+  "lastUpdated": 1795494137487,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -23,14 +23,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2664.5273814595394,
-      "wins": 266,
-      "losses": 63,
+      "elo": 2665.636598567317,
+      "wins": 268,
+      "losses": 64,
       "character": "PEACH",
       "secondary": "SHEIK",
       "tertiary": "FOX",
       "yesterdayElo": 2680.2530006737434,
-      "eloDelta": -15.725619214204016,
+      "eloDelta": -14.616402106426449,
       "rankChange": "down",
       "location": "north",
       "tournaments": []
@@ -439,6 +439,22 @@
       "tournaments": []
     },
     {
+      "tag": "KIRBY MASTER 67",
+      "code": "RISN#993",
+      "rank": "Silver 2",
+      "elo": 1284.8236241274894,
+      "wins": 4,
+      "losses": 14,
+      "character": "KIRBY",
+      "secondary": "JIGGLYPUFF",
+      "tertiary": "FOX",
+      "yesterdayElo": 1230.3182470395905,
+      "eloDelta": 54.50537708789898,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -497,22 +513,6 @@
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1236.716816279853,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "KIRBY MASTER 67",
-      "code": "RISN#993",
-      "rank": "Silver 2",
-      "elo": 1230.3182470395905,
-      "wins": 3,
-      "losses": 14,
-      "character": "KIRBY",
-      "secondary": "FOX",
-      "tertiary": "JIGGLYPUFF",
-      "yesterdayElo": 1230.3182470395905,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
