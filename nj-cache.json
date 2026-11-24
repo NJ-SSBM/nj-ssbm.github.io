@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795496837648,
+  "lastUpdated": 1795497737498,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -439,22 +439,6 @@
       "tournaments": []
     },
     {
-      "tag": "KIRBY MASTER 67",
-      "code": "RISN#993",
-      "rank": "Silver 2",
-      "elo": 1284.8236241274894,
-      "wins": 4,
-      "losses": 14,
-      "character": "KIRBY",
-      "secondary": "JIGGLYPUFF",
-      "tertiary": "FOX",
-      "yesterdayElo": 1230.3182470395905,
-      "eloDelta": 54.50537708789898,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -487,6 +471,22 @@
       "tournaments": []
     },
     {
+      "tag": "KIRBY MASTER 67",
+      "code": "RISN#993",
+      "rank": "Silver 2",
+      "elo": 1263.728547856737,
+      "wins": 4,
+      "losses": 15,
+      "character": "KIRBY",
+      "secondary": "JIGGLYPUFF",
+      "tertiary": "FOX",
+      "yesterdayElo": 1230.3182470395905,
+      "eloDelta": 33.410300817146435,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -503,7 +503,7 @@
       "tournaments": []
     },
     {
-      "tag": "saRy nevr clear",
+      "tag": "zay",
       "code": "TUAH#67",
       "rank": "Silver 2",
       "elo": 1236.716816279853,
