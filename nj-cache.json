@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795485137403,
+  "lastUpdated": 1795486037399,
   "playerRanks": [
     {
       "tag": "stupid song",
@@ -154,15 +154,15 @@
       "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Diamond 1",
-      "elo": 2027.201752456327,
-      "wins": 33,
+      "elo": 2054.452052593844,
+      "wins": 34,
       "losses": 34,
       "character": "MARTH",
       "secondary": "FOX",
       "tertiary": "",
       "yesterdayElo": 2027.201752456327,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": 27.250300137517115,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
