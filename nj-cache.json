@@ -1,6 +1,24 @@
 {
-  "lastUpdated": 1795486037399,
+  "lastUpdated": 1795488737435,
   "playerRanks": [
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2674.2655603396156,
+      "wins": 137,
+      "losses": 30,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2634.4603218580587,
+      "eloDelta": 39.8052384815569,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
+    },
     {
       "tag": "stupid song",
       "code": "BATS#195",
@@ -16,24 +34,6 @@
       "rankChange": "down",
       "location": "north",
       "tournaments": []
-    },
-    {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2660.909084451646,
-      "wins": 135,
-      "losses": 30,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2634.4603218580587,
-      "eloDelta": 26.448762593587162,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
     },
     {
       "tag": "Jude :3",
