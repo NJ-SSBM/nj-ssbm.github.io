@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795498637513,
+  "lastUpdated": 1795499537502,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -391,6 +391,22 @@
       "tournaments": []
     },
     {
+      "tag": "KIRBY MASTER 67",
+      "code": "RISN#993",
+      "rank": "Gold 1",
+      "elo": 1441.1916210693375,
+      "wins": 7,
+      "losses": 15,
+      "character": "KIRBY",
+      "secondary": "JIGGLYPUFF",
+      "tertiary": "FOX",
+      "yesterdayElo": 1230.3182470395905,
+      "eloDelta": 210.87337402974708,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Dathomir",
       "code": "DATH#793",
       "rank": "Silver 3",
@@ -403,22 +419,6 @@
       "yesterdayElo": 1431.4420868904408,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "KIRBY MASTER 67",
-      "code": "RISN#993",
-      "rank": "Silver 3",
-      "elo": 1389.8125865956586,
-      "wins": 6,
-      "losses": 15,
-      "character": "KIRBY",
-      "secondary": "JIGGLYPUFF",
-      "tertiary": "FOX",
-      "yesterdayElo": 1230.3182470395905,
-      "eloDelta": 159.4943395560681,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
