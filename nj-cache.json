@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795571538725,
+  "lastUpdated": 1795581438802,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -487,6 +487,22 @@
       "tournaments": []
     },
     {
+      "tag": "zay",
+      "code": "TUAH#67",
+      "rank": "Silver 2",
+      "elo": 1262.5798600349003,
+      "wins": 27,
+      "losses": 14,
+      "character": "FOX",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1236.716816279853,
+      "eloDelta": 25.86304375504733,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -497,22 +513,6 @@
       "secondary": "MARTH",
       "tertiary": "",
       "yesterdayElo": 1249.7367119601222,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "zay",
-      "code": "TUAH#67",
-      "rank": "Silver 2",
-      "elo": 1236.716816279853,
-      "wins": 26,
-      "losses": 14,
-      "character": "FOX",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1236.716816279853,
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
