@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795674140253,
+  "lastUpdated": 1795675040276,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -362,15 +362,15 @@
       "tag": "UrethraFranklin",
       "code": "DICK#254",
       "rank": "Gold 1",
-      "elo": 1493.7094464723473,
-      "wins": 16,
+      "elo": 1523.308454599689,
+      "wins": 17,
       "losses": 8,
       "character": "SHEIK",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1493.6372608641152,
-      "eloDelta": 0.07218560823207554,
-      "rankChange": "none",
+      "eloDelta": 29.671193735573752,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
