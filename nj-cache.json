@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795677740337,
+  "lastUpdated": 1795678640365,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -343,22 +343,6 @@
       "tournaments": []
     },
     {
-      "tag": "UrethraFranklin",
-      "code": "DICK#254",
-      "rank": "Gold 1",
-      "elo": 1538.3402460747247,
-      "wins": 19,
-      "losses": 9,
-      "character": "SHEIK",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1493.6372608641152,
-      "eloDelta": 44.70298521060954,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "TeamMagmaGrunt",
       "code": "MGMA#124",
       "rank": "Gold 1",
@@ -371,6 +355,22 @@
       "yesterdayElo": 1537.6383391518607,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "UrethraFranklin",
+      "code": "DICK#254",
+      "rank": "Gold 1",
+      "elo": 1480.6631196485075,
+      "wins": 19,
+      "losses": 11,
+      "character": "SHEIK",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1493.6372608641152,
+      "eloDelta": -12.974141215607688,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
