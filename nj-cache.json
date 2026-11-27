@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795815832742,
+  "lastUpdated": 1795816732746,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -122,14 +122,14 @@
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Master 1",
-      "elo": 2260.304825799223,
+      "elo": 2246.4341445460395,
       "wins": 99,
-      "losses": 88,
+      "losses": 89,
       "character": "MARTH",
       "secondary": "YOSHI",
       "tertiary": "",
       "yesterdayElo": 2242.8982724132743,
-      "eloDelta": 17.406553385948882,
+      "eloDelta": 3.5358721327652347,
       "rankChange": "up",
       "location": "ocean",
       "tournaments": []
@@ -346,14 +346,14 @@
       "tag": "TeamMagmaGrunt",
       "code": "MGMA#124",
       "rank": "Gold 2",
-      "elo": 1570.1363455319201,
-      "wins": 23,
-      "losses": 18,
+      "elo": 1576.9542711737936,
+      "wins": 24,
+      "losses": 19,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1537.6383391518607,
-      "eloDelta": 32.49800638005945,
+      "eloDelta": 39.315932021932895,
       "rankChange": "up",
       "location": null,
       "tournaments": []
