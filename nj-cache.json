@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795819432796,
+  "lastUpdated": 1795820332818,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -18,24 +18,6 @@
       "tournaments": []
     },
     {
-      "tag": "404Cray",
-      "code": "CRAY#527",
-      "rank": "Grandmaster",
-      "elo": 2590.7762471437018,
-      "wins": 144,
-      "losses": 36,
-      "character": "FALCO",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 2644.685367450378,
-      "eloDelta": -53.909120306676414,
-      "rankChange": "down",
-      "location": null,
-      "tournaments": [
-        "otw"
-      ]
-    },
-    {
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
@@ -50,6 +32,24 @@
       "rankChange": "none",
       "location": null,
       "tournaments": []
+    },
+    {
+      "tag": "404Cray",
+      "code": "CRAY#527",
+      "rank": "Grandmaster",
+      "elo": 2568.1366971691955,
+      "wins": 144,
+      "losses": 37,
+      "character": "FALCO",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 2644.685367450378,
+      "eloDelta": -76.5486702811827,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": [
+        "otw"
+      ]
     },
     {
       "tag": "kdog",
@@ -345,16 +345,16 @@
     {
       "tag": "TeamMagmaGrunt",
       "code": "MGMA#124",
-      "rank": "Gold 1",
-      "elo": 1534.11007201563,
-      "wins": 24,
+      "rank": "Gold 2",
+      "elo": 1569.7356263631814,
+      "wins": 26,
       "losses": 21,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1537.6383391518607,
-      "eloDelta": -3.5282671362306246,
-      "rankChange": "down",
+      "eloDelta": 32.09728721132069,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
