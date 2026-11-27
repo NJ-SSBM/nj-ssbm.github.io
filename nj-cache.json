@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795823032892,
+  "lastUpdated": 1795823932952,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -21,14 +21,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2620.4004159621013,
-      "wins": 152,
-      "losses": 37,
+      "elo": 2600.9028857173626,
+      "wins": 153,
+      "losses": 38,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2644.685367450378,
-      "eloDelta": -24.284951488276874,
+      "eloDelta": -43.78248173301563,
       "rankChange": "down",
       "location": null,
       "tournaments": [
@@ -265,16 +265,16 @@
     {
       "tag": "The Milkman",
       "code": "MILK#228",
-      "rank": "Platinum 1",
-      "elo": 1767.6880987703958,
+      "rank": "Gold 3",
+      "elo": 1737.445650615296,
       "wins": 20,
-      "losses": 11,
+      "losses": 12,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1758.0213529694552,
-      "eloDelta": 9.666745800940589,
-      "rankChange": "up",
+      "eloDelta": -20.575702354159148,
+      "rankChange": "down",
       "location": "north",
       "tournaments": []
     },
@@ -439,6 +439,22 @@
       "tournaments": []
     },
     {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1304.887466366992,
+      "wins": 33,
+      "losses": 30,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1268.5032202635964,
+      "eloDelta": 36.384246103395526,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 2",
@@ -468,22 +484,6 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
-      "tournaments": []
-    },
-    {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1267.0206394905344,
-      "wins": 31,
-      "losses": 30,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1268.5032202635964,
-      "eloDelta": -1.4825807730619545,
-      "rankChange": "down",
-      "location": null,
       "tournaments": []
     },
     {
