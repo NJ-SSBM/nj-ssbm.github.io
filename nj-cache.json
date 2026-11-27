@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795798732665,
+  "lastUpdated": 1795805032637,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -346,15 +346,15 @@
       "tag": "TeamMagmaGrunt",
       "code": "MGMA#124",
       "rank": "Gold 1",
-      "elo": 1537.6383391518607,
+      "elo": 1505.4637423717866,
       "wins": 14,
-      "losses": 10,
+      "losses": 11,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1537.6383391518607,
-      "eloDelta": 0,
-      "rankChange": "none",
+      "eloDelta": -32.174596780074125,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
