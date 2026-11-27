@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795813132679,
+  "lastUpdated": 1795814032699,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -345,16 +345,16 @@
     {
       "tag": "TeamMagmaGrunt",
       "code": "MGMA#124",
-      "rank": "Gold 1",
-      "elo": 1512.2561322960057,
-      "wins": 18,
-      "losses": 16,
+      "rank": "Gold 2",
+      "elo": 1548.4573168093752,
+      "wins": 20,
+      "losses": 17,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1537.6383391518607,
-      "eloDelta": -25.382206855854974,
-      "rankChange": "down",
+      "eloDelta": 10.818977657514552,
+      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
