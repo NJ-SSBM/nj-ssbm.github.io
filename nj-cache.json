@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795807732691,
+  "lastUpdated": 1795808632666,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -151,7 +151,7 @@
       "tournaments": []
     },
     {
-      "tag": "HEALTH:: EXCESS",
+      "tag": "DARK ENOUGH",
       "code": "NJ#473",
       "rank": "Diamond 1",
       "elo": 2054.452052593844,
@@ -295,7 +295,7 @@
       "tournaments": []
     },
     {
-      "tag": "N3UR0T1C af",
+      "tag": "sleepy eepy -.-",
       "code": "ENVY#3",
       "rank": "Gold 2",
       "elo": 1628.0839795692505,
@@ -442,14 +442,14 @@
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 2",
-      "elo": 1314.5809567958145,
+      "elo": 1291.727715186617,
       "wins": 14,
-      "losses": 16,
+      "losses": 17,
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1322.0498316506805,
-      "eloDelta": -7.468874854866044,
+      "eloDelta": -30.322116464063583,
       "rankChange": "down",
       "location": "ocean",
       "tournaments": []
