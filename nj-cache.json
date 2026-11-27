@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795806832677,
+  "lastUpdated": 1795807732691,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -423,22 +423,6 @@
       "tournaments": []
     },
     {
-      "tag": "PeanutbuttaRyan",
-      "code": "RYDA#315",
-      "rank": "Silver 3",
-      "elo": 1322.0498316506805,
-      "wins": 13,
-      "losses": 15,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1322.0498316506805,
-      "eloDelta": 0,
-      "rankChange": "none",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "Undeadmatrix",
       "code": "DEAD#342",
       "rank": "Silver 2",
@@ -452,6 +436,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 2",
+      "elo": 1314.5809567958145,
+      "wins": 14,
+      "losses": 16,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1322.0498316506805,
+      "eloDelta": -7.468874854866044,
+      "rankChange": "down",
+      "location": "ocean",
       "tournaments": []
     },
     {
