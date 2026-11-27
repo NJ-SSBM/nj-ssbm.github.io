@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795805032637,
+  "lastUpdated": 1795805932646,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -151,7 +151,7 @@
       "tournaments": []
     },
     {
-      "tag": ":: EXCESS",
+      "tag": "HEALTH:: EXCESS",
       "code": "NJ#473",
       "rank": "Diamond 1",
       "elo": 2054.452052593844,
@@ -346,14 +346,14 @@
       "tag": "TeamMagmaGrunt",
       "code": "MGMA#124",
       "rank": "Gold 1",
-      "elo": 1505.4637423717866,
-      "wins": 14,
-      "losses": 11,
+      "elo": 1524.2023344144566,
+      "wins": 15,
+      "losses": 12,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1537.6383391518607,
-      "eloDelta": -32.174596780074125,
+      "eloDelta": -13.436004737404119,
       "rankChange": "down",
       "location": null,
       "tournaments": []
