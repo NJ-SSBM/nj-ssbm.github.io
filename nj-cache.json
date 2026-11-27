@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795816732746,
+  "lastUpdated": 1795817632758,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -122,14 +122,14 @@
       "tag": "HireEngInternEE",
       "code": "DESO#590",
       "rank": "Master 1",
-      "elo": 2246.4341445460395,
-      "wins": 99,
+      "elo": 2257.5959896150716,
+      "wins": 101,
       "losses": 89,
       "character": "MARTH",
       "secondary": "YOSHI",
       "tertiary": "",
       "yesterdayElo": 2242.8982724132743,
-      "eloDelta": 3.5358721327652347,
+      "eloDelta": 14.697717201797332,
       "rankChange": "up",
       "location": "ocean",
       "tournaments": []
