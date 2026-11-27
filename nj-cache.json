@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795797832660,
+  "lastUpdated": 1795798732665,
   "playerRanks": [
     {
       "tag": "404Cray",
@@ -36,22 +36,6 @@
       "tournaments": []
     },
     {
-      "tag": "stupid song",
-      "code": "BATS#195",
-      "rank": "Grandmaster",
-      "elo": 2611.7579186711237,
-      "wins": 278,
-      "losses": 68,
-      "character": "PEACH",
-      "secondary": "SHEIK",
-      "tertiary": "FOX",
-      "yesterdayElo": 2610.95032692064,
-      "eloDelta": 0.8075917504838799,
-      "rankChange": "up",
-      "location": "north",
-      "tournaments": []
-    },
-    {
       "tag": "I Rigged Summit",
       "code": "A#24",
       "rank": "Grandmaster",
@@ -85,6 +69,22 @@
         "rutgers",
         "otw"
       ]
+    },
+    {
+      "tag": "stupid song",
+      "code": "BATS#195",
+      "rank": "Grandmaster",
+      "elo": 2557.088108093899,
+      "wins": 278,
+      "losses": 70,
+      "character": "PEACH",
+      "secondary": "SHEIK",
+      "tertiary": "FOX",
+      "yesterdayElo": 2610.95032692064,
+      "eloDelta": -53.8622188267409,
+      "rankChange": "down",
+      "location": "north",
+      "tournaments": []
     },
     {
       "tag": "Tempo",
