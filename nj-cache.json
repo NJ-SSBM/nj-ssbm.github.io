@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795812232708,
+  "lastUpdated": 1795813132679,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -21,14 +21,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2573.1332468202827,
-      "wins": 142,
+      "elo": 2590.509772137272,
+      "wins": 143,
       "losses": 36,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2644.685367450378,
-      "eloDelta": -71.55212063009549,
+      "eloDelta": -54.17559531310599,
       "rankChange": "down",
       "location": null,
       "tournaments": [
@@ -343,6 +343,22 @@
       "tournaments": []
     },
     {
+      "tag": "TeamMagmaGrunt",
+      "code": "MGMA#124",
+      "rank": "Gold 1",
+      "elo": 1512.2561322960057,
+      "wins": 18,
+      "losses": 16,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1537.6383391518607,
+      "eloDelta": -25.382206855854974,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "UrethraFranklin",
       "code": "DICK#254",
       "rank": "Gold 1",
@@ -355,22 +371,6 @@
       "yesterdayElo": 1496.199532107042,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "TeamMagmaGrunt",
-      "code": "MGMA#124",
-      "rank": "Gold 1",
-      "elo": 1494.8990605157933,
-      "wins": 17,
-      "losses": 16,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1537.6383391518607,
-      "eloDelta": -42.73927863606741,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     },
