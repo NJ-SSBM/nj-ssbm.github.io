@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795811332690,
+  "lastUpdated": 1795812232708,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -21,14 +21,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2591.7898320320546,
+      "elo": 2573.1332468202827,
       "wins": 142,
-      "losses": 35,
+      "losses": 36,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2644.685367450378,
-      "eloDelta": -52.89553541832356,
+      "eloDelta": -71.55212063009549,
       "rankChange": "down",
       "location": null,
       "tournaments": [
