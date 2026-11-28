@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795825732944,
+  "lastUpdated": 1795826632991,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -295,7 +295,7 @@
       "tournaments": []
     },
     {
-      "tag": "sleepy eepy -.-",
+      "tag": "the fujoshi",
       "code": "ENVY#3",
       "rank": "Gold 2",
       "elo": 1628.0839795692505,
@@ -487,6 +487,22 @@
       "tournaments": []
     },
     {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1252.252570185565,
+      "wins": 35,
+      "losses": 34,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1268.5032202635964,
+      "eloDelta": -16.250650078031413,
+      "rankChange": "down",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Truekaiju",
       "code": "TRUE#211",
       "rank": "Silver 2",
@@ -499,22 +515,6 @@
       "yesterdayElo": 1249.7367119601222,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1245.7554635105275,
-      "wins": 33,
-      "losses": 33,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1268.5032202635964,
-      "eloDelta": -22.74775675306887,
-      "rankChange": "down",
       "location": null,
       "tournaments": []
     }
