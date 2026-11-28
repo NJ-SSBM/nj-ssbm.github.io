@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795841033202,
+  "lastUpdated": 1795841933205,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -455,22 +455,6 @@
       "tournaments": []
     },
     {
-      "tag": "PeanutbuttaRyan",
-      "code": "RYDA#315",
-      "rank": "Silver 2",
-      "elo": 1299.5804847057552,
-      "wins": 15,
-      "losses": 18,
-      "character": "MARTH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1322.0498316506805,
-      "eloDelta": -22.46934694492529,
-      "rankChange": "down",
-      "location": "ocean",
-      "tournaments": []
-    },
-    {
       "tag": "Skypiea",
       "code": "SKYE#503",
       "rank": "Silver 2",
@@ -484,6 +468,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
+      "tournaments": []
+    },
+    {
+      "tag": "PeanutbuttaRyan",
+      "code": "RYDA#315",
+      "rank": "Silver 2",
+      "elo": 1279.0822100896394,
+      "wins": 15,
+      "losses": 19,
+      "character": "MARTH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1322.0498316506805,
+      "eloDelta": -42.96762156104114,
+      "rankChange": "down",
+      "location": "ocean",
       "tournaments": []
     },
     {
