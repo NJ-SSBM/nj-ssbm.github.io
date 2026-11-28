@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795823932952,
+  "lastUpdated": 1795824832928,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -266,14 +266,14 @@
       "tag": "The Milkman",
       "code": "MILK#228",
       "rank": "Gold 3",
-      "elo": 1737.445650615296,
+      "elo": 1721.5503955985996,
       "wins": 20,
-      "losses": 12,
+      "losses": 13,
       "character": "JIGGLYPUFF",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1758.0213529694552,
-      "eloDelta": -20.575702354159148,
+      "eloDelta": -36.47095737085556,
       "rankChange": "down",
       "location": "north",
       "tournaments": []
@@ -439,22 +439,6 @@
       "tournaments": []
     },
     {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1304.887466366992,
-      "wins": 33,
-      "losses": 30,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1268.5032202635964,
-      "eloDelta": 36.384246103395526,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 2",
@@ -484,6 +468,22 @@
       "eloDelta": 0,
       "rankChange": "none",
       "location": "south",
+      "tournaments": []
+    },
+    {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1273.6841622233046,
+      "wins": 33,
+      "losses": 32,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1268.5032202635964,
+      "eloDelta": 5.180941959708207,
+      "rankChange": "up",
+      "location": null,
       "tournaments": []
     },
     {
