@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795824832928,
+  "lastUpdated": 1795825732944,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -471,22 +471,6 @@
       "tournaments": []
     },
     {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1273.6841622233046,
-      "wins": 33,
-      "losses": 32,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1268.5032202635964,
-      "eloDelta": 5.180941959708207,
-      "rankChange": "up",
-      "location": null,
-      "tournaments": []
-    },
-    {
       "tag": "bear",
       "code": "TUAH#67",
       "rank": "Silver 2",
@@ -515,6 +499,22 @@
       "yesterdayElo": 1249.7367119601222,
       "eloDelta": 0,
       "rankChange": "none",
+      "location": null,
+      "tournaments": []
+    },
+    {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 2",
+      "elo": 1245.7554635105275,
+      "wins": 33,
+      "losses": 33,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1268.5032202635964,
+      "eloDelta": -22.74775675306887,
+      "rankChange": "down",
       "location": null,
       "tournaments": []
     }
