@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795837433155,
+  "lastUpdated": 1795838333166,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -21,14 +21,14 @@
       "tag": "404Cray",
       "code": "CRAY#527",
       "rank": "Grandmaster",
-      "elo": 2600.725152169448,
-      "wins": 160,
+      "elo": 2610.329757244679,
+      "wins": 162,
       "losses": 40,
       "character": "FALCO",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 2644.685367450378,
-      "eloDelta": -43.96021528093024,
+      "eloDelta": -34.35561020569912,
       "rankChange": "down",
       "location": null,
       "tournaments": [
@@ -426,14 +426,14 @@
       "tag": "nizwiz",
       "code": "NIZI#416",
       "rank": "Silver 3",
-      "elo": 1342.3312786957129,
-      "wins": 42,
-      "losses": 36,
+      "elo": 1345.55716822148,
+      "wins": 43,
+      "losses": 37,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1268.5032202635964,
-      "eloDelta": 73.82805843211645,
+      "eloDelta": 77.05394795788357,
       "rankChange": "up",
       "location": null,
       "tournaments": []
