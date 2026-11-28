@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795838333166,
+  "lastUpdated": 1795839233171,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -74,14 +74,14 @@
       "tag": "stupid song",
       "code": "BATS#195",
       "rank": "Grandmaster",
-      "elo": 2545.9648021870057,
-      "wins": 280,
+      "elo": 2556.7214150905334,
+      "wins": 281,
       "losses": 71,
       "character": "PEACH",
       "secondary": "SHEIK",
       "tertiary": "FOX",
       "yesterdayElo": 2610.95032692064,
-      "eloDelta": -64.98552473363407,
+      "eloDelta": -54.228911830106426,
       "rankChange": "down",
       "location": "north",
       "tournaments": []
@@ -426,14 +426,14 @@
       "tag": "nizwiz",
       "code": "NIZI#416",
       "rank": "Silver 3",
-      "elo": 1345.55716822148,
-      "wins": 43,
+      "elo": 1359.5315371024203,
+      "wins": 44,
       "losses": 37,
       "character": "GAME_AND_WATCH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1268.5032202635964,
-      "eloDelta": 77.05394795788357,
+      "eloDelta": 91.02831683882391,
       "rankChange": "up",
       "location": null,
       "tournaments": []
