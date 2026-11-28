@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795830233078,
+  "lastUpdated": 1795831133074,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -423,6 +423,22 @@
       "tournaments": []
     },
     {
+      "tag": "nizwiz",
+      "code": "NIZI#416",
+      "rank": "Silver 3",
+      "elo": 1324.6493521589573,
+      "wins": 41,
+      "losses": 36,
+      "character": "GAME_AND_WATCH",
+      "secondary": "",
+      "tertiary": "",
+      "yesterdayElo": 1268.5032202635964,
+      "eloDelta": 56.146131895360895,
+      "rankChange": "up",
+      "location": null,
+      "tournaments": []
+    },
+    {
       "tag": "Undeadmatrix",
       "code": "DEAD#342",
       "rank": "Silver 2",
@@ -435,22 +451,6 @@
       "yesterdayElo": 1315.6681633288463,
       "eloDelta": 0,
       "rankChange": "none",
-      "location": null,
-      "tournaments": []
-    },
-    {
-      "tag": "nizwiz",
-      "code": "NIZI#416",
-      "rank": "Silver 2",
-      "elo": 1291.7933540257495,
-      "wins": 39,
-      "losses": 36,
-      "character": "GAME_AND_WATCH",
-      "secondary": "",
-      "tertiary": "",
-      "yesterdayElo": 1268.5032202635964,
-      "eloDelta": 23.29013376215312,
-      "rankChange": "up",
       "location": null,
       "tournaments": []
     },
