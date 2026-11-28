@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795840133183,
+  "lastUpdated": 1795841033202,
   "playerRanks": [
     {
       "tag": "Jude :3",
@@ -458,14 +458,14 @@
       "tag": "PeanutbuttaRyan",
       "code": "RYDA#315",
       "rank": "Silver 2",
-      "elo": 1309.4339549125955,
+      "elo": 1299.5804847057552,
       "wins": 15,
-      "losses": 17,
+      "losses": 18,
       "character": "MARTH",
       "secondary": "",
       "tertiary": "",
       "yesterdayElo": 1322.0498316506805,
-      "eloDelta": -12.615876738085035,
+      "eloDelta": -22.46934694492529,
       "rankChange": "down",
       "location": "ocean",
       "tournaments": []
